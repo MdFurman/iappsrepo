@@ -145,5 +145,12 @@
             "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "PicsArt Gold",
+            "version": "8.2.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
+            "localizedDescription": "Фоторедактор со взломом на подписку.",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
     ]
 }
