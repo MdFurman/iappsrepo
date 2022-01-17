@@ -138,5 +138,12 @@
             "localizedDescription": "Instories с активированой Pro подпиской.",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/9c/8b/e99c8b61-2e23-1045-6d90-a3a87315bfb1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "Smule VIP",
+            "version": "10.2.7",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/smule.ipa?raw=true",
+            "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
     ]
 }
