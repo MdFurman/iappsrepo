@@ -46,6 +46,13 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/yamusic.ipa?raw=true",
             "localizedDescription": "Яндекс Музыка с полным взломом на подписку",
             "iconURL": "https://play-lh.googleusercontent.com/4DlNrc4XJ015b-iJ69IKRhCEL6mEsR-QuWqMPZ-oTJfVGfcF3OQVq8xSgwAQNuwUqQ",
-        } 
+        },
+        {
+            "name": "Deezer++",
+            "version": "7.15",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/deezer.ipa?raw=true",
+            "localizedDescription": "Стриминговый сервис лицензионной музыки со взломанной премиум подпиской и возможностью загрузки в кэш.",
+            "iconURL": "https://inceptum-stor.icons8.com/3tDtW969i5Om/6a3d8faecc26b7feb243c608cdf1c158_icon.png",
+        },
     ]
 }
