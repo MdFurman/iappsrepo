@@ -75,5 +75,12 @@
             "localizedDescription": "Torrent клиент для iOS.",
             "iconURL": "https://ds-blobs-3.cdn.devapps.ru/17036084.png",
         },
+        {
+            "name": "Вкармане ТВ",
+            "version": "4.1.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tv/vkarmane.ipa?raw=true",
+            "localizedDescription": "Приложение для просмотра ТВ со взломом на подписку.",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/37/c7/d4/37c7d499-6d82-ad4c-90b3-d4913de0a0d9/source/200x200bb.jpg",
+        },
     ]
 }
