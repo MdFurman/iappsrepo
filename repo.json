@@ -27,13 +27,6 @@
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
-            "name": "Spotify++",
-            "version": "8.6.94",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/spotify.ipa?raw=true",
-            "localizedDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.",
-            "iconURL": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
-        },
-        {
             "name": "WhatsApp Watusi Stalky",
             "version": "2.21.241 | 1.1.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
@@ -46,6 +39,13 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/yamusic.ipa?raw=true",
             "localizedDescription": "Яндекс Музыка с полным взломом на подписку",
             "iconURL": "https://play-lh.googleusercontent.com/4DlNrc4XJ015b-iJ69IKRhCEL6mEsR-QuWqMPZ-oTJfVGfcF3OQVq8xSgwAQNuwUqQ",
+        },
+        {
+            "name": "Spotify++",
+            "version": "8.6.94",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/spotify.ipa?raw=true",
+            "localizedDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.",
+            "iconURL": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
         },
         {
             "name": "Deezer++",
