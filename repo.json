@@ -84,10 +84,10 @@
         },
         {
             "name": "Focos",
-            "version": "4.1.4",
+            "version": "2.5.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/untagged-0f8e3c80097f260f3bff/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/37/c7/d4/37c7d499-6d82-ad4c-90b3-d4913de0a0d9/source/200x200bb.jpg",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
         },
     ]
 }
