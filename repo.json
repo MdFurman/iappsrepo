@@ -166,5 +166,12 @@
             "localizedDescription": "Ведущее профессиональное фото- и видеоприложение для работы с камерой в iOS",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/52/03/14/52031488-0cb8-daa3-ee8e-0dcab9b57e45/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/230x0w.png",
         },
+        {
+            "name": "Photomatch Plus",
+            "version": "7.15.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/photomatch.ipa?raw=true",
+            "localizedDescription": "Решайте математические задачи легко. Чтобы подписка Plus работала измените язык на английский в приложении.",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/41/e9/69/41e96976-47ba-35c0-d9f6-706cba89f7ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
     ]
 }
