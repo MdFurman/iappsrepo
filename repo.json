@@ -103,5 +103,12 @@
             "localizedDescription": "Фоторедактор со взломом на подписку.",
             "iconURL": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
         },
+        {
+            "name": "Аудиокниги++",
+            "version": "9.0.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
+            "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
+            "iconURL": "https://theux.ru/static/images/apps/appicon/books.jpg",
+        },
     ]
 }
