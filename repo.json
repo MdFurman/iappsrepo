@@ -152,5 +152,19 @@
             "localizedDescription": "Фоторедактор со взломом на подписку.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "TouchRetouch",
+            "version": "5.0.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/touchretouch.ipa?raw=true",
+            "localizedDescription": "Ваше карманное приложение для быстрого удаления нежелательных объектов с фотографий.",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "ProCamera",
+            "version": "15.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/procamera.ipa?raw=true",
+            "localizedDescription": "Ведущее профессиональное фото- и видеоприложение для работы с камерой в iOS",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/52/03/14/52031488-0cb8-daa3-ee8e-0dcab9b57e45/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/230x0w.png",
+        },
     ]
 }
