@@ -113,16 +113,16 @@
         {
             "name": "MyTuner Radio Pro",
             "version": "8.2.2",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
-            "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/radio.ipa?raw=true",
+            "localizedDescription": "Больше 500 радиостанций со всего мира.",
             "iconURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
         },
         {
-            "name": "Аудиокниги++",
+            "name": "CallRecorder",
             "version": "9.0.3",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
-            "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
-            "iconURL": "https://theux.ru/static/images/apps/appicon/books.jpg",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/callrecorder.ipa?raw=true",
+            "localizedDescription": "Запись звонков на iOS.",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/90/fa/d2/90fad286-5301-1c1b-66c1-9f4928d05f40/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/230x0w.png",
         },
     ]
 }
