@@ -8,7 +8,7 @@
         {
             "name": "VK Again",
             "version": "7.8 | 3.3",
-            "downloadURL": "https://www.dropbox.com/s/sj5oucv5i2is0fw/vkagain.ipa?dl=1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
         },
@@ -22,21 +22,21 @@
         {
             "name": "YouTube Cercube",
             "version": "16.46.5 | 5.3.3",
-            "downloadURL": "https://www.dropbox.com/s/ayahx8cop5xe3lh/cercube.ipa?dl=1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/cercube.ipa",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео.",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
             "name": "Spotify++",
             "version": "8.6.94",
-            "downloadURL": "https://www.dropbox.com/s/x2y93y9m1mdsmy9/spotify.ipa?dl=1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/spotify.ipa",
             "localizedDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.",
             "iconURL": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
         },
         {
             "name": "WhatsApp Watusi Stalky",
             "version": "2.21.241 | 1.1.9",
-            "downloadURL": "https://www.dropbox.com/s/3u6j3r8gxjb8if9/watusi.ipa?dl=1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей.",
             "iconURL": "https://w7.pngwing.com/pngs/257/544/png-transparent-social-media-whatsapp-computer-icons-android-unified-payments-interface-button-text-trademark-logo.png",
         },
