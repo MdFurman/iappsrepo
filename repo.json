@@ -110,5 +110,19 @@
             "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
             "iconURL": "https://theux.ru/static/images/apps/appicon/books.jpg",
         },
+        {
+            "name": "MyTuner Radio Pro",
+            "version": "8.2.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
+            "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
+            "iconURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
+        },
+        {
+            "name": "Аудиокниги++",
+            "version": "9.0.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
+            "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
+            "iconURL": "https://theux.ru/static/images/apps/appicon/books.jpg",
+        },
     ]
 }
