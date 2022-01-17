@@ -96,5 +96,12 @@
             "localizedDescription": "Фоторедактор со взломом на подписку.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
         },
+        {
+            "name": "InShot Pro",
+            "version": "1.56.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/inshot/inshot.ipa?raw=true",
+            "localizedDescription": "Фоторедактор со взломом на подписку.",
+            "iconURL": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
+        },
     ]
 }
