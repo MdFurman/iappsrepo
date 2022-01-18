@@ -281,9 +281,9 @@
         {
             "name": "Wallcraft Pro",
             "version": "2.7.4",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/wallcraft.ipa?raw=true",
             "localizedDescription": "Совершенно новый уровень подхода к обоям",
-            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/0a/54/e30a54bf-b486-3136-7a36-243bbf9af204/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/230x0w.png",
         },
         {
             "name": "ESign Ru",
