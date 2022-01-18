@@ -111,6 +111,13 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
         },
         {
+            "name": "Focos Live Pro",
+            "version": "1.4.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/focoslive.ipa?raw=true",
+            "localizedDescription": "Профессиональный видеоредактор.",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/46/6c/b8466c25-1b02-2de5-d176-48de636121e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
             "name": "InShot Pro",
             "version": "1.56.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/inshot/inshot.ipa?raw=true",
@@ -295,7 +302,7 @@
         {
             "name": "Live Wallpapers Premium",
             "version": "2.40.1",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/livewall/livewall.ipa?raw=true",
             "localizedDescription": "LIVE обои в высоком качестве.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/b0/10/7ab01089-3495-41d7-6859-58fb9998ce40/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
@@ -307,18 +314,11 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/6e/b9/9a6eb955-d490-0eb8-0dcb-fad72f53c1ec/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
-            "name": "Focos Live Pro",
-            "version": "1.4.1",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/focoslive.ipa?raw=true",
-            "localizedDescription": "Профессиональный видеоредактор.",
-            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/46/6c/b8466c25-1b02-2de5-d176-48de636121e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-        },
-        {
-            "name": "ESign Ru",
-            "version": "4.3.5",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
-            "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
+            "name": "Pigment Premium",
+            "version": "2.16.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/pigment.ipa?raw=true",
+            "localizedDescription": "Приложение для рисования.",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/bb/74/5dbb741f-4974-419a-03c4-a9ba6eb09f88/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
             "name": "ESign Ru",
