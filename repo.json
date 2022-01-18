@@ -348,5 +348,26 @@
             "localizedDescription": "Профессиональный редактор фото.",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/f6/49/8df6492c-510b-9a83-1959-a6e9a1c81f95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "HUD Speed Pro",
+            "version": "52.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/hudspeed.ipa?raw=true",
+            "localizedDescription": "Приложение Антирадар.",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/ae/8e/f3ae8ec3-47a5-f291-f5a6-4da84e16e89b/AppIconPro-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Movavi Clips Hack",
+            "version": "3.43.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/movaviclips.ipa?raw=true",
+            "localizedDescription": "Редактор видео.",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/39/1b/5d/391b5de5-e3bb-2d97-93a3-9471782ed9a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "HDO Player",
+            "version": "1.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/hdo.ipa?raw=true",
+            "localizedDescription": "Приложение для просмотра фильмов и сериалов. Контент только на английском, почти все фильмы имеют русские и украинские субтитры.",
+            "iconURL": "https://apkresult.com/Logos/hdo-player-apkresult.jpg",
+        },
     ]
 }
