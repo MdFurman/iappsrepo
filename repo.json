@@ -83,7 +83,7 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/2e/a2/a2/2ea2a2c6-4736-1977-ecb9-473d9dca9392/source/512x512bb.jpg",
         },
         {
-            "name": "StarVPN",
+            "name": "StarVPN Premium",
             "version": "3.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/starvpn.ipa?raw=true",
             "localizedDescription": "VPN клиент со взломом не подписку.",
@@ -97,14 +97,14 @@
             "iconURL": "https://ds-blobs-3.cdn.devapps.ru/17036084.png",
         },
         {
-            "name": "Вкармане ТВ",
+            "name": "Вкармане ТВ Pro",
             "version": "4.1.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tv/vkarmane.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра ТВ со взломом на подписку.",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/37/c7/d4/37c7d499-6d82-ad4c-90b3-d4913de0a0d9/source/200x200bb.jpg",
         },
         {
-            "name": "Focos",
+            "name": "Focos Pro",
             "version": "2.5.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/focos/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
@@ -132,7 +132,7 @@
             "iconURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
         },
         {
-            "name": "CallRecorder",
+            "name": "CallRecorder Pro",
             "version": "9.0.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/callrecorder.ipa?raw=true",
             "localizedDescription": "Запись звонков на iOS.",
@@ -270,6 +270,34 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pixelmator/pixelphoto.ipa?raw=true",
             "localizedDescription": "Один из самых топовых фоторедакторов теперь доступен и на iPhone.",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/62/40/cb62402c-0f6a-94f3-b88b-489ca5410ab9/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
+        },
+        {
+            "name": "ESign Ru",
+            "version": "4.3.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
+            "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
+            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
+        },
+        {
+            "name": "Wallcraft Pro",
+            "version": "2.7.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
+            "localizedDescription": "Совершенно новый уровень подхода к обоям",
+            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
+        },
+        {
+            "name": "ESign Ru",
+            "version": "4.3.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
+            "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
+            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
+        },
+        {
+            "name": "ESign Ru",
+            "version": "4.3.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
+            "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
+            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
     ]
 }
