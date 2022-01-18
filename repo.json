@@ -1,8 +1,8 @@
 {
     "name": "iApps Store",
-    "identifier": "pegakmop.github.io",
+    "identifier": "iapps.ipa",
     "sourceURL": "https://pegakmop.github.io/esign.json",
-	"sourceImage": "https://ds-blobs-1.cdn.devapps.ru/22755888.png",
+	"sourceImage": "https://github.com/MdFurman/iappsrepo/blob/main/logo.ico?raw=true",
     "apps": [
 
         {
