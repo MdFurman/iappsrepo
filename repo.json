@@ -174,18 +174,18 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/41/e9/69/41e96976-47ba-35c0-d9f6-706cba89f7ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
-            "name": "PDF Pro ",
-            "version": "5.0.2",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/touchretouch.ipa?raw=true",
-            "localizedDescription": "Ваше карманное приложение для быстрого удаления нежелательных объектов с фотографий.",
-            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
+            "name": "PDF Pro 4",
+            "version": "4.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/pdfpro.ipa?raw=true",
+            "localizedDescription": "PDF Pro 4 даёт возможность читать, редактировать и аннотировать документы в формате PDF.",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/91/6e/c0/916ec096-e8e7-a35d-c41d-8b3981d0b37a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
-            "name": "TouchRetouch",
-            "version": "5.0.2",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/touchretouch.ipa?raw=true",
-            "localizedDescription": "Ваше карманное приложение для быстрого удаления нежелательных объектов с фотографий.",
-            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
+            "name": "FilmicPro",
+            "version": "6.17.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/filmic.ipa?raw=true",
+            "localizedDescription": "Самая продвинутая кинематографическая видеокамера для мобильных устройств",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/38/35/0a3835ca-7402-2a93-d49c-cc268c6e18e6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
     ]
 }
