@@ -3,7 +3,7 @@
     "identifier": "iapps.ipa",
     "sourceURL": "https://pegakmop.github.io/esign.json",
 	"sourceImage": "https://github.com/MdFurman/iappsrepo/blob/main/logo.ico?raw=true",
-    "sourceDescription": "За слив ссылки к iApps Store, Ваш доступ будет анулирован во всех каналах, а так же заблокирован сертификат!",
+    "sourceDescription": "iApps",
     "apps": [
 
         {
