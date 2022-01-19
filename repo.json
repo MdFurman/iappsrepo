@@ -391,5 +391,12 @@
             "localizedDescription": "Многофункциональный клиент для работы с прокси.",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/cd/6c/1bcd6c79-6008-7170-39a5-2dcc6a1cef5c/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/230x0w.png",
         },
+        {
+            "name": "Anilibria",
+            "version": "1.1.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/anilibria.ipa?raw=true",
+            "localizedDescription": "Приложение для просмотра анимэ от команды Anilibria.",
+            "iconURL": "https://tvfeed.in/cache/3b/93/3b932c24d1a8b9a72899dc96cfbd3c80.jpg",
+        },
     ]
 }
