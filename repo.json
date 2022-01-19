@@ -412,5 +412,12 @@
             "localizedDescription": "Один из лучших медиапроигрывателей  в AppStore.",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/34/73/9a/34739a59-1cee-0a34-5bd9-867af2bd8cb8/AppIcon-Plus-1x_U007emarketing-0-4-0-0-85-220.png/230x0w.png",
         },
+        {
+            "name": "TV+ HD Hack",
+            "version": "1.8.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/tvplus.ipa?raw=true",
+            "localizedDescription": "Приложение для просмотра онлайн ТВ. В разделе платные каналы начните покупку пакета, во время появление окна нажмите отмена, покупка будет взломана. Повторите для каждого из пакетов.",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/24/38/a42438a7-30f9-bd09-cba1-dec335935d35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
     ]
 }
