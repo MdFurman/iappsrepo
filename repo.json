@@ -405,5 +405,12 @@
             "localizedDescription": "Та самая игра из-за которой тебя бомбило.",
             "iconURL": "https://upload.wikimedia.org/wikipedia/ru/f/f3/Flappy_Bird_logo.jpeg",
         },
+        {
+            "name": "nPlayer Plus",
+            "version": "3.12.12",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/nplayer.ipa?raw=true",
+            "localizedDescription": "Один из лучших медиапроигрывателей  в AppStore.",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/34/73/9a/34739a59-1cee-0a34-5bd9-867af2bd8cb8/AppIcon-Plus-1x_U007emarketing-0-4-0-0-85-220.png/230x0w.png",
+        },
     ]
 }
