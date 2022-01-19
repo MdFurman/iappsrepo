@@ -398,5 +398,12 @@
             "localizedDescription": "Приложение для просмотра анимэ от команды Anilibria.",
             "iconURL": "https://tvfeed.in/cache/3b/93/3b932c24d1a8b9a72899dc96cfbd3c80.jpg",
         },
+        {
+            "name": "Flappy Bird",
+            "version": "4.1.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/flappybird.ipa?raw=true",
+            "localizedDescription": "Та самая игра из-за которой тебя бомбило.",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/ru/f/f3/Flappy_Bird_logo.jpeg",
+        },
     ]
 }
