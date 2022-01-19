@@ -370,5 +370,12 @@
             "localizedDescription": "Приложение для просмотра фильмов и сериалов. Контент только на английском, почти все фильмы имеют русские и украинские субтитры.",
             "iconURL": "https://apkresult.com/Logos/hdo-player-apkresult.jpg",
         },
+        {
+            "name": "Bazaart Premium",
+            "version": "7.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/bazaart.ipa?raw=true",
+            "localizedDescription": "Популярный фоторедактор.",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/33/42/2d334265-f65b-5e77-3024-5f3f96063969/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-85-220-0.png/230x0w.png",
+        },
     ]
 }
