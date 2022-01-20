@@ -365,7 +365,7 @@
         },
         {
             "name": "HUD Speed Pro",
-            "version": "52.0",
+            "version": "53.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/hudspeed.ipa?raw=true",
             "localizedDescription": "Приложение Антирадар.",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/ae/8e/f3ae8ec3-47a5-f291-f5a6-4da84e16e89b/AppIconPro-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/230x0w.png",
