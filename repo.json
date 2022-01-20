@@ -13,6 +13,20 @@
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
         },
+        {
+            "name": "VK++ | ColoredVK",
+            "version": "5.32.1 | 0.32b",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vkplus/vkplus.ipa?raw=true",
+            "localizedDescription": "Прошлая модификация ВК с более старой версией.",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
+        },
+        {
+            "name": "VK | VKS | VKCache | ColoredVK",
+            "version": "2.10",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkcache.ipa?raw=true",
+            "localizedDescription": "Модификация ВК для любителей олдскула с твиком VKSettings и возможностью загрузки музыки в кэш.",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
+        },
 		{
             "name": "Instagram Rocket Hack",
             "version": "217 | 3.7.32",
@@ -418,6 +432,20 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/tvplus.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра онлайн ТВ. В разделе платные каналы начните покупку пакета, во время появление окна нажмите отмена, покупка будет взломана. Повторите для каждого из пакетов.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/24/38/a42438a7-30f9-bd09-cba1-dec335935d35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "AppCake | NoAds",
+            "version": "7.2.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/appcake.ipa?raw=true",
+            "localizedDescription": "Тысячи игр и приложений в одной программе.",
+            "iconURL": "https://www.iphonecake.com/i/images/logo.png",
+        },
+        {
+            "name": "NeuralCam - NightMode",
+            "version": "5.0.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/neuralcam.ipa?raw=true",
+            "localizedDescription": "Лучшее приложение для камеры iPhone для ночных снимков.",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/96/ac/48/96ac4839-1d31-32bc-b735-58bc787b1c8c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
     ]
 }
