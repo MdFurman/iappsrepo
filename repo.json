@@ -1,17 +1,23 @@
 {
     "name": "iApps Store",
     "identifier": "iapps.ipa",
-    "sourceURL": "https://pegakmop.github.io/esign.json",
 	"sourceImage": "https://github.com/MdFurman/iappsrepo/blob/main/logo.ico?raw=true",
     "Description": "За слив ссылки к iApps Store, Ваш доступ будет анулирован во всех каналах, а так же заблокирован сертификат!",
     "apps": [
 
         {
             "name": "VK Again",
-            "version": "7.8 | 3.3",
+            "version": "7.9 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "VK Again Stable",
+            "version": "6.53 | 3.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vkagainstable/vkagainstable.ipa?raw=true",
+            "localizedDescription": "Версия рекомендуемая разработчиком, где по заявлениям работает весь функционал.",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/74/be/5574be5e-376f-4517-1558-584d4fb186a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "VK++ | ColoredVK",
@@ -50,8 +56,8 @@
         } ,
         {
             "name": "YouTube Cercube iSponsorBlock",
-            "version": "16.46.5 | 5.3.3",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/cercube.ipa?raw=true",
+            "version": "17.01.4 | 5.3.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео.",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
@@ -101,7 +107,7 @@
             "name": "StarVPN Premium",
             "version": "3.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/starvpn.ipa?raw=true",
-            "localizedDescription": "VPN клиент со взломом не подписку.",
+            "localizedDescription": "VPN клиент со взломом на подписку.",
             "iconURL": "https://play-lh.googleusercontent.com/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg",
         },
         {
@@ -120,7 +126,7 @@
         },
         {
             "name": "Focos Pro",
-            "version": "2.5.2",
+            "version": "2.5.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/focos/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
@@ -169,7 +175,7 @@
         },
         {
             "name": "Smule VIP",
-            "version": "10.2.7",
+            "version": "10.3.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/smule.ipa?raw=true",
             "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
@@ -232,7 +238,7 @@
         },
         {
             "name": "VivaVideo VIP",
-            "version": "9.1.0",
+            "version": "9.1.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vivavideo.ipa?raw=true",
             "localizedDescription": "Один из лучших редакторов видео с активированой подпиской.",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/93/3d/30/933d30d8-6bbd-8072-23f0-6fb0f28b4787/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
@@ -295,7 +301,7 @@
         },
         {
             "name": "ESign Ru",
-            "version": "4.3.5",
+            "version": "4.3.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
