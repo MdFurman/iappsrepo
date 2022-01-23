@@ -48,6 +48,13 @@
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
+            "name": "TikTok++",
+            "version": "22.8.2 | 1.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tiktokuni/tiktok.ipa?raw=true",
+            "localizedDescription": "Новая модификация TikTok с огромным количеством функций и возможностей.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        } ,
+        {
             "name": "TikTok Unicorn",
             "version": "19.3 | 5.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/tiktok.ipa?raw=true",
