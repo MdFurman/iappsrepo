@@ -10,6 +10,7 @@
             "version": "7.9 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -17,6 +18,7 @@
             "version": "6.53 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vkagainstable/vkagainstable.ipa?raw=true",
             "localizedDescription": "Версия рекомендуемая разработчиком, где по заявлениям работает весь функционал.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/74/be/5574be5e-376f-4517-1558-584d4fb186a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -24,6 +26,7 @@
             "version": "5.32.1 | 0.32b",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vkplus/vkplus.ipa?raw=true",
             "localizedDescription": "Прошлая модификация ВК с более старой версией.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
         },
         {
@@ -31,6 +34,7 @@
             "version": "2.10",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkcache.ipa?raw=true",
             "localizedDescription": "Модификация ВК для любителей олдскула с твиком VKSettings и возможностью загрузки музыки в кэш.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
         },
 		{
@@ -38,6 +42,7 @@
             "version": "218 | 3.7.33",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -45,6 +50,7 @@
             "version": "218 | 2.40",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/instaplus.ipa?raw=true",
             "localizedDescription": "Лучшая модификация Insagram, с огромными возможностями. Без взлома. Доступны бесплтаные функции.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -52,6 +58,7 @@
             "version": "22.8.2 | 1.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tiktokuni/tiktok.ipa?raw=true",
             "localizedDescription": "Новая модификация TikTok с огромным количеством функций и возможностей.",
+            "appUpdateTime": "2022-01-23T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         } ,
         {
@@ -59,6 +66,7 @@
             "version": "19.3 | 5.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/tiktok.ipa?raw=true",
             "localizedDescription": "Популярный видеохостинг с массой дополнительных возможностей.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         } ,
         {
@@ -66,13 +74,15 @@
             "version": "17.01.4 | 5.3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
             "name": "WhatsApp Watusi Stalky",
-            "version": "2.21.241 | 1.1.9",
+            "version": "2.21.73 | 1.1.11",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей. Удалена рекламу, взломано на все функции.",
+            "appUpdateTime": "2022-01-23T13:31:00+0800",
             "iconURL": "https://w7.pngwing.com/pngs/257/544/png-transparent-social-media-whatsapp-computer-icons-android-unified-payments-interface-button-text-trademark-logo.png",
         },
         {
@@ -80,13 +90,15 @@
             "version": "8.97",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
         },
 		{
             "name": "Яндекс Музыка++",
-            "version": "6.51",
+            "version": "6.52",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/yamusic.ipa?raw=true",
             "localizedDescription": "Яндекс Музыка с полным взломом на подписку",
+            "appUpdateTime": "2022-01-23T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/4DlNrc4XJ015b-iJ69IKRhCEL6mEsR-QuWqMPZ-oTJfVGfcF3OQVq8xSgwAQNuwUqQ",
         },
         {
@@ -94,6 +106,7 @@
             "version": "8.6.94",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/spotify.ipa?raw=true",
             "localizedDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
         },
         {
@@ -101,6 +114,7 @@
             "version": "7.15",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/deezer.ipa?raw=true",
             "localizedDescription": "Стриминговый сервис лицензионной музыки со взломанной премиум подпиской и возможностью загрузки в кэш.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://inceptum-stor.icons8.com/3tDtW969i5Om/6a3d8faecc26b7feb243c608cdf1c158_icon.png",
         },
         {
@@ -108,6 +122,7 @@
             "version": "2.4.15",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/glazba/glazba.ipa?raw=true",
             "localizedDescription": "Плеер для прослушивания музыки Вконтакте и загрузки в кэш. Удалена реклама.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/2e/a2/a2/2ea2a2c6-4736-1977-ecb9-473d9dca9392/source/512x512bb.jpg",
         },
         {
@@ -115,6 +130,7 @@
             "version": "3.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/starvpn.ipa?raw=true",
             "localizedDescription": "VPN клиент со взломом на подписку.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg",
         },
         {
@@ -122,6 +138,7 @@
             "version": "1.8.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/itorrent.ipa?raw=true",
             "localizedDescription": "Torrent клиент для iOS.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://ds-blobs-3.cdn.devapps.ru/17036084.png",
         },
         {
@@ -129,6 +146,7 @@
             "version": "4.1.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tv/vkarmane.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра ТВ со взломом на подписку.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/37/c7/d4/37c7d499-6d82-ad4c-90b3-d4913de0a0d9/source/200x200bb.jpg",
         },
         {
@@ -136,6 +154,7 @@
             "version": "2.5.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/focos/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
         },
         {
@@ -143,6 +162,7 @@
             "version": "1.4.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/focoslive.ipa?raw=true",
             "localizedDescription": "Профессиональный видеоредактор.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/46/6c/b8466c25-1b02-2de5-d176-48de636121e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -150,6 +170,7 @@
             "version": "1.56.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/inshot/inshot.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
         },
         {
@@ -157,6 +178,7 @@
             "version": "9.0.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
             "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://theux.ru/static/images/apps/appicon/books.jpg",
         },
         {
@@ -164,6 +186,7 @@
             "version": "8.2.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/radio.ipa?raw=true",
             "localizedDescription": "Больше 500 радиостанций со всего мира.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
         },
         {
@@ -171,6 +194,7 @@
             "version": "9.0.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/callrecorder.ipa?raw=true",
             "localizedDescription": "Запись звонков на iOS.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/90/fa/d2/90fad286-5301-1c1b-66c1-9f4928d05f40/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/230x0w.png",
         },
         {
@@ -178,6 +202,7 @@
             "version": "1.46.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/instories/instories.ipa?raw=true",
             "localizedDescription": "Instories с активированой Pro подпиской.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/9c/8b/e99c8b61-2e23-1045-6d90-a3a87315bfb1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -185,6 +210,7 @@
             "version": "10.3.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/smule.ipa?raw=true",
             "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -192,6 +218,7 @@
             "version": "8.2.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -199,6 +226,7 @@
             "version": "5.0.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/touchretouch.ipa?raw=true",
             "localizedDescription": "Ваше карманное приложение для быстрого удаления нежелательных объектов с фотографий.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -206,13 +234,15 @@
             "version": "15.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/procamera.ipa?raw=true",
             "localizedDescription": "Ведущее профессиональное фото- и видеоприложение для работы с камерой в iOS",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/52/03/14/52031488-0cb8-daa3-ee8e-0dcab9b57e45/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/230x0w.png",
         },
         {
             "name": "Photomatch Plus",
-            "version": "7.15.1",
+            "version": "8.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/photomatch.ipa?raw=true",
             "localizedDescription": "Решайте математические задачи легко. Чтобы подписка Plus работала измените язык на английский в приложении.",
+            "appUpdateTime": "2022-01-23T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/41/e9/69/41e96976-47ba-35c0-d9f6-706cba89f7ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -220,6 +250,7 @@
             "version": "4.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/pdfpro.ipa?raw=true",
             "localizedDescription": "PDF Pro 4 даёт возможность читать, редактировать и аннотировать документы в формате PDF.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/91/6e/c0/916ec096-e8e7-a35d-c41d-8b3981d0b37a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
@@ -227,6 +258,7 @@
             "version": "6.17.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/filmic.ipa?raw=true",
             "localizedDescription": "Самая продвинутая кинематографическая видеокамера для мобильных устройств",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/38/35/0a3835ca-7402-2a93-d49c-cc268c6e18e6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -234,6 +266,7 @@
             "version": "5.31.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/calm.ipa?raw=true",
             "localizedDescription": "Приложение с большим количеством приятной музыки для сна, релакса, снятия стресса и тд.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9d/d1/559dd1a5-ec33-a5da-2c14-42ee1f09a29e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -241,6 +274,7 @@
             "version": "2.8.7",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/turbovpn.ipa?raw=true",
             "localizedDescription": "VPN клиент с активированой VIP подпиской.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/74/3d/4d743d72-43c8-21f8-8129-9d1b25347ee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -248,6 +282,7 @@
             "version": "9.1.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vivavideo.ipa?raw=true",
             "localizedDescription": "Один из лучших редакторов видео с активированой подпиской.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/93/3d/30/933d30d8-6bbd-8072-23f0-6fb0f28b4787/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -255,6 +290,7 @@
             "version": "1.11.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/homework/homework.ipa?raw=true",
             "localizedDescription": "Занимайте спортом дома. Для активации взлома, начните покупку подписки, после нажмите отмена.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/99/b0/0099b0f1-14f0-107d-fba3-4ddd396e5c30/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -262,6 +298,7 @@
             "version": "2.5.13",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/simpler/simpler.ipa?raw=true",
             "localizedDescription": "Приложение для изучения английского языка.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/20/a2/6a/20a26ac8-965a-0b21-59f8-048f723a116a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -269,6 +306,7 @@
             "version": "5.9.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/reports.ipa?raw=true",
             "localizedDescription": "Отслеживайте активность в Instagram.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/11/6b/5f116b34-d8cf-4a32-ad88-02123c88dd2f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -276,6 +314,7 @@
             "version": "7.3.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/43/74/5e437487-0681-b00e-cc4f-85f36113d00c/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
@@ -283,6 +322,7 @@
             "version": "3.0.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/luma/lumafusion.ipa?raw=true",
             "localizedDescription": "Лучшее и самое функциональное приложение для монтажа на iOS.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/3b/c6/bc3bc610-32ef-2705-494b-622f61db0e9b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
@@ -290,6 +330,7 @@
             "version": "4.30",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/iscanner/iscanner.ipa?raw=true",
             "localizedDescription": "Один из лучших сканеров документов.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/14/cf/dd14cf04-29e4-b7ed-985c-80b37fe95e20/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
         },
         {
@@ -297,6 +338,7 @@
             "version": "9.5.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/office/poloffice.ipa?raw=true",
             "localizedDescription": "Мобильный офис.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/fb/f2/abfbf258-a42f-07e4-d61e-1e677fed2f32/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -304,6 +346,7 @@
             "version": "2.0.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pixelmator/pixelphoto.ipa?raw=true",
             "localizedDescription": "Один из самых топовых фоторедакторов теперь доступен и на iPhone.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/62/40/cb62402c-0f6a-94f3-b88b-489ca5410ab9/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
         },
         {
@@ -311,6 +354,7 @@
             "version": "4.3.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
         {
@@ -318,6 +362,7 @@
             "version": "2.7.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/wallcraft.ipa?raw=true",
             "localizedDescription": "Совершенно новый уровень подхода к обоям",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/0a/54/e30a54bf-b486-3136-7a36-243bbf9af204/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/230x0w.png",
         },
         {
@@ -325,6 +370,7 @@
             "version": "5.21.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/wallpaper.ipa?raw=true",
             "localizedDescription": "Обои и темы в высоком качестве.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/f4/ed/cd/f4edcd40-9ebc-2529-6aa5-fadac656f074/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -332,6 +378,7 @@
             "version": "2.40.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/livewall/livewall.ipa?raw=true",
             "localizedDescription": "LIVE обои в высоком качестве.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/b0/10/7ab01089-3495-41d7-6859-58fb9998ce40/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -339,6 +386,7 @@
             "version": "1.8.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/incollage.ipa?raw=true",
             "localizedDescription": "Создавайте коллажи легко.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/6e/b9/9a6eb955-d490-0eb8-0dcb-fad72f53c1ec/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -346,6 +394,7 @@
             "version": "2.16.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/pigment.ipa?raw=true",
             "localizedDescription": "Приложение для рисования.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/bb/74/5dbb741f-4974-419a-03c4-a9ba6eb09f88/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
@@ -353,6 +402,7 @@
             "version": "10.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/adobecc.ipa?raw=true",
             "localizedDescription": "Приложение от Adobe для создания уникального медиа контента.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/21/c6/2a21c688-6dc9-d31c-811f-97259c38af6e/AppIconSpark-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
@@ -360,6 +410,7 @@
             "version": "22.1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/adobeexpress/adobexpress.ipa?raw=true",
             "localizedDescription": "Фоторедактор от Adobe.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/da/1b/a2da1b8c-2d32-ff86-0959-5b5f548fdb22/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
         },
         {
@@ -367,6 +418,7 @@
             "version": "2.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/adobepremier/adobepremier.ipa?raw=true",
             "localizedDescription": "Универсальный видеоредактор от Adobe.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/6c/7b/e76c7b9a-989d-79e5-ffac-2bfb259c7752/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
@@ -374,6 +426,7 @@
             "version": "1.26",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/peachy/peachy.ipa?raw=true",
             "localizedDescription": "Профессиональный редактор фото.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/f6/49/8df6492c-510b-9a83-1959-a6e9a1c81f95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -381,6 +434,7 @@
             "version": "53.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/hudspeed.ipa?raw=true",
             "localizedDescription": "Приложение Антирадар.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/ae/8e/f3ae8ec3-47a5-f291-f5a6-4da84e16e89b/AppIconPro-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/230x0w.png",
         },
         {
@@ -388,6 +442,7 @@
             "version": "3.43.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/movaviclips.ipa?raw=true",
             "localizedDescription": "Редактор видео.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/39/1b/5d/391b5de5-e3bb-2d97-93a3-9471782ed9a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -395,6 +450,7 @@
             "version": "1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/hdo.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра фильмов и сериалов. Контент только на английском, почти все фильмы имеют русские и украинские субтитры.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://apkresult.com/Logos/hdo-player-apkresult.jpg",
         },
         {
@@ -402,6 +458,7 @@
             "version": "7.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/bazaart.ipa?raw=true",
             "localizedDescription": "Популярный фоторедактор.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/33/42/2d334265-f65b-5e77-3024-5f3f96063969/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-85-220-0.png/230x0w.png",
         },
         {
@@ -409,6 +466,7 @@
             "version": "6.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/%D0%B4%D0%BE%D0%BC%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.ipa?raw=true",
             "localizedDescription": "Книги и аудиокниги. Взломано на подписку.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/69/6b/d5/696bd5e1-3213-821b-7f1c-c3c7b02f625b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -416,6 +474,7 @@
             "version": "2.1.98",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/shadowrocket.ipa?raw=true",
             "localizedDescription": "Многофункциональный клиент для работы с прокси.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/cd/6c/1bcd6c79-6008-7170-39a5-2dcc6a1cef5c/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/230x0w.png",
         },
         {
@@ -423,6 +482,7 @@
             "version": "1.1.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/anilibria.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра анимэ от команды Anilibria.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://tvfeed.in/cache/3b/93/3b932c24d1a8b9a72899dc96cfbd3c80.jpg",
         },
         {
@@ -430,6 +490,7 @@
             "version": "4.1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/flappybird.ipa?raw=true",
             "localizedDescription": "Та самая игра из-за которой тебя бомбило.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/ru/f/f3/Flappy_Bird_logo.jpeg",
         },
         {
@@ -437,6 +498,7 @@
             "version": "3.12.12",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/nplayer.ipa?raw=true",
             "localizedDescription": "Один из лучших медиапроигрывателей  в AppStore.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/34/73/9a/34739a59-1cee-0a34-5bd9-867af2bd8cb8/AppIcon-Plus-1x_U007emarketing-0-4-0-0-85-220.png/230x0w.png",
         },
         {
@@ -444,6 +506,7 @@
             "version": "1.8.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/tvplus.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра онлайн ТВ. В разделе платные каналы начните покупку пакета, во время появление окна нажмите отмена, покупка будет взломана. Повторите для каждого из пакетов.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/24/38/a42438a7-30f9-bd09-cba1-dec335935d35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -451,6 +514,7 @@
             "version": "7.2.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/appcake.ipa?raw=true",
             "localizedDescription": "Тысячи игр и приложений в одной программе.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://www.iphonecake.com/i/images/logo.png",
         },
         {
@@ -458,6 +522,7 @@
             "version": "5.0.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/neuralcam.ipa?raw=true",
             "localizedDescription": "Лучшее приложение для камеры iPhone для ночных снимков.",
+            "appUpdateTime": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/96/ac/48/96ac4839-1d31-32bc-b735-58bc787b1c8c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
     ]
