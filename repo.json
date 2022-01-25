@@ -10,7 +10,7 @@
             "version": "7.9 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
-            "appUpdateTime": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-21T15:10:00+08:00",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -18,7 +18,7 @@
             "version": "6.53 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vkagainstable/vkagainstable.ipa?raw=true",
             "localizedDescription": "Версия рекомендуемая разработчиком, где по заявлениям работает весь функционал.",
-            "appUpdateTime": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-21T15:10:00+08:00",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/74/be/5574be5e-376f-4517-1558-584d4fb186a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
