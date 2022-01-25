@@ -215,10 +215,10 @@
         },
         {
             "name": "PicsArt Gold",
-            "version": "8.2.2",
+            "version": "9.0.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-26T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -524,6 +524,14 @@
             "localizedDescription": "Лучшее приложение для камеры iPhone для ночных снимков.",
             "versionDate": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/96/ac/48/96ac4839-1d31-32bc-b735-58bc787b1c8c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Filto Pro",
+            "version": "3.9.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/filto/filto.ipa?raw=true",
+            "localizedDescription": "Универсальный редактор с различными фильтрами и эффектами.",
+            "versionDate": "2022-01-26T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/40/6c8540c6-5c7f-2011-ec64-60111dc81e2f/AppIcon-Normal-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
