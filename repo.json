@@ -7,10 +7,10 @@
 
         {
             "name": "VK Again",
-            "version": "7.9 | 3.3",
+            "version": "7.10 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
-            "versionDate": "2022-01-21T15:10:00+08:00",
+            "versionDate": "2022-01-29T15:10:00+08:00",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -556,6 +556,30 @@
             "localizedDescription": "Красивые обои для iPhone, iPad и Apple Watch. Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
             "versionDate": "2022-01-27T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/06/b3/c506b32b-01bf-3b0d-7ef6-7d57020e5094/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/230x0w.png",
+        },
+        {
+            "name": "Mondly | Premium",
+            "version": "9.14.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/mondly.ipa?raw=true",
+            "localizedDescription": "Приложение для изучения языков.",
+            "versionDate": "2022-01-29T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/ce/49/4ace4933-38f2-f57e-7568-e5739fd9080a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Darkroom | Premium",
+            "version": "5.8.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/dark.ipa?raw=true",
+            "localizedDescription": "Премиальный фото и видео редактор. ❗️Важно: приложение вылетает при нажатии на настройки на главном экране. Просто туда не заходим, все остальное взломано и работает.",
+            "versionDate": "2022-01-29T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/ab/25/a4ab255c-4b16-e768-7ccb-fb4d81d34747/AppIcon-0-2x_U007euniversal-4-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Flightradar | Gold",
+            "version": "8.18.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/fly24.ipa?raw=true",
+            "localizedDescription": "Следите за самолетами в реальном времени.",
+            "versionDate": "2022-01-29T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/13/74/42/13744260-721a-c279-324e-ea14a59a5ada/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
