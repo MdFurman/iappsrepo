@@ -39,18 +39,18 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "218 | 3.7.33",
+            "version": "219 | 3.7.34",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-30T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
             "name": "Instagram Plus",
-            "version": "218 | 2.40",
+            "version": "219 | 2.40",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/instaplus.ipa?raw=true",
             "localizedDescription": "Лучшая модификация Insagram, с огромными возможностями. Без взлома. Доступны бесплтаные функции.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-30T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -191,10 +191,10 @@
         },
         {
             "name": "CallRecorder Pro",
-            "version": "9.0.3",
+            "version": "2.91.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/callrecorder.ipa?raw=true",
             "localizedDescription": "Запись звонков на iOS.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-30T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/90/fa/d2/90fad286-5301-1c1b-66c1-9f4928d05f40/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/230x0w.png",
         },
         {
@@ -311,10 +311,10 @@
         },
         {
             "name": "Infuse 7 Pro",
-            "version": "7.3.2",
+            "version": "7.3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-30T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/43/74/5e437487-0681-b00e-cc4f-85f36113d00c/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
@@ -580,6 +580,14 @@
             "localizedDescription": "Следите за самолетами в реальном времени.",
             "versionDate": "2022-01-29T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/13/74/42/13744260-721a-c279-324e-ea14a59a5ada/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Videoshop | Pro",
+            "version": "82.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/videoshop.ipa?raw=true",
+            "localizedDescription": "Редактор видео для монтажа со взломом на Pro подписку.",
+            "versionDate": "2022-01-30T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/71/0d/f4710dcf-3296-c2c4-c091-4e78c3d890fd/AppIcon-1x_U007emarketing-0-4-0-85-220.png/230x0w.png",
         },
     ]
 }
