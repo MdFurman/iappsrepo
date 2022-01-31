@@ -79,10 +79,10 @@
         } ,
         {
             "name": "WhatsApp Watusi Stalky",
-            "version": "2.21.73 | 1.1.11",
+            "version": "2.21.76 | 1.1.11",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей. Удалена рекламу, взломано на все функции.",
-            "versionDate": "2022-01-23T13:31:00+0800",
+            "versionDate": "2022-01-31T13:31:00+0800",
             "iconURL": "https://w7.pngwing.com/pngs/257/544/png-transparent-social-media-whatsapp-computer-icons-android-unified-payments-interface-button-text-trademark-logo.png",
         },
         {
@@ -223,10 +223,10 @@
         },
         {
             "name": "TouchRetouch",
-            "version": "5.0.2",
+            "version": "5.0.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/touchretouch.ipa?raw=true",
             "localizedDescription": "Ваше карманное приложение для быстрого удаления нежелательных объектов с фотографий.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-01-31T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -588,6 +588,14 @@
             "localizedDescription": "Редактор видео для монтажа со взломом на Pro подписку.",
             "versionDate": "2022-01-30T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/71/0d/f4710dcf-3296-c2c4-c091-4e78c3d890fd/AppIcon-1x_U007emarketing-0-4-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Photo Lab Pro | DeLuxe",
+            "version": "3.10.83",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/photolab.ipa?raw=true",
+            "localizedDescription": "Супер лаборатория фотоэффектов для вашего iPhone.",
+            "versionDate": "2022-01-30T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/52/9c/d4/529cd4a9-2dd8-4e62-69f8-15f04bf825a0/AppIcon-3-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
