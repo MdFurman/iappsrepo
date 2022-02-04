@@ -7,10 +7,10 @@
 
         {
             "name": "VK Again",
-            "version": "7.10 | 3.3",
+            "version": "7.11 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
-            "versionDate": "2022-01-29T15:10:00+08:00",
+            "versionDate": "2022-02-04T15:10:00+08:00",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -79,18 +79,18 @@
         } ,
         {
             "name": "WhatsApp Watusi Stalky",
-            "version": "2.21.76 | 1.1.11",
+            "version": "22.2.76 | 1.1.11",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей. Удалена рекламу, взломано на все функции.",
-            "versionDate": "2022-01-31T13:31:00+0800",
+            "versionDate": "2022-02-04T13:31:00+0800",
             "iconURL": "https://w7.pngwing.com/pngs/257/544/png-transparent-social-media-whatsapp-computer-icons-android-unified-payments-interface-button-text-trademark-logo.png",
         },
         {
             "name": "Twitter++",
-            "version": "8.97",
+            "version": "8.98",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-02-04T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
         },
 		{
@@ -175,10 +175,10 @@
         },
         {
             "name": "Аудиокниги++",
-            "version": "9.0.3",
+            "version": "9.0.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/book.ipa?raw=true",
             "localizedDescription": "Аудиокниги со взломом на подписку. Доступна загрузка в кэш.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-02-04T13:31:00+0800",
             "iconURL": "https://theux.ru/static/images/apps/appicon/books.jpg",
         },
         {
@@ -596,6 +596,14 @@
             "localizedDescription": "Супер лаборатория фотоэффектов для вашего iPhone.",
             "versionDate": "2022-01-30T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/52/9c/d4/529cd4a9-2dd8-4e62-69f8-15f04bf825a0/AppIcon-3-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "TeraBox | Premium",
+            "version": "2.10.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/videoshop.ipa?raw=true",
+            "localizedDescription": "Бесплатное облачное хранилище на 1ТБ.",
+            "versionDate": "2022-02-04T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/21/81/87218176-5d16-04f4-4222-861b6d47da9d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
