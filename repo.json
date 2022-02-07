@@ -83,7 +83,7 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей. Удалена рекламу, взломано на все функции.",
             "versionDate": "2022-02-04T13:31:00+0800",
-            "iconURL": "https://w7.pngwing.com/pngs/257/544/png-transparent-social-media-whatsapp-computer-icons-android-unified-payments-interface-button-text-trademark-logo.png",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "Twitter++",
@@ -92,6 +92,14 @@
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
             "versionDate": "2022-02-04T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
+        },
+        {
+            "name": "Facebook | Wolf",
+            "version": "352 | 2.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
+            "localizedDescription": "Модифицированный клиент Facebook.",
+            "versionDate": "2022-02-07T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/11/26/1b/11261bbf-f45b-c107-a9ed-ae7e8f69c325/Icon-Production-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
 		{
             "name": "Яндекс Музыка++",
