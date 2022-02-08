@@ -215,10 +215,10 @@
         },
         {
             "name": "Smule VIP",
-            "version": "10.3.1",
+            "version": "10.3.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/smule.ipa?raw=true",
             "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-02-08T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
