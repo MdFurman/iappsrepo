@@ -1,6 +1,8 @@
 {
     "name": "iApps Store",
     "identifier": "iapps.ipa",
+    "sourceLinkTitle": "@iApps",
+    "sourceLinkUrl": "https://t.me/iapps_ipa",
 	"sourceImage": "https://github.com/MdFurman/iappsrepo/blob/main/logo.ico?raw=true",
     "sourceDescription": "Подписываете сертификатом и устанавливаете: \n👥 https://t.me/piper_pied_discuss \n🗣 https://t.me/piper_pied 📱 https://nwotb.ml 💰 https://nwotb.ml/donat \n Приятного вам просмотра фильмов и сериалов...",
     "apps": [
