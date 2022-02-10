@@ -483,10 +483,10 @@
         },
         {
             "name": "Shadow Rocket",
-            "version": "2.1.98",
+            "version": "2.2.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/shadowrocket.ipa?raw=true",
             "localizedDescription": "Многофункциональный клиент для работы с прокси.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-02-11T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/cd/6c/1bcd6c79-6008-7170-39a5-2dcc6a1cef5c/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/230x0w.png",
         },
         {
