@@ -51,10 +51,10 @@
         } ,
         {
             "name": "Instagram Plus",
-            "version": "220 | 2.40",
+            "version": "221 | 2.40",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/instaplus.ipa?raw=true",
             "localizedDescription": "Лучшая модификация Insagram, с огромными возможностями. Без взлома. Доступны бесплтаные функции.",
-            "versionDate": "2022-02-06T13:31:00+0800",
+            "versionDate": "2022-02-11T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -323,10 +323,10 @@
         },
         {
             "name": "Infuse 7 Pro",
-            "version": "7.3.3",
+            "version": "7.3.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
-            "versionDate": "2022-01-30T13:31:00+0800",
+            "versionDate": "2022-02-11T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/43/74/5e437487-0681-b00e-cc4f-85f36113d00c/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
@@ -664,6 +664,14 @@
             "localizedDescription": "Самая популярная игра серии Heroes® теперь в HD-качестве!. Только для iPad.",
             "versionDate": "2022-02-09T13:31:00+0800",
             "iconURL": "https://appstudio.org/wp-content/uploads/apps/882687823-320x320.png",
+        },
+        {
+            "name": "Kinopab",
+            "version": "1.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/kinopab.ipa?raw=true",
+            "localizedDescription": "Приложение для просмотра и загрузки фильмов и сериалов. /n ❗️Приложение платное и работает по подписке.",
+            "versionDate": "2022-02-11T13:31:00+0800",
+            "iconURL": "https://static.appdb.to/images/cydia-1900000630-icon.png",
         },
     ]
 }
