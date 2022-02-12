@@ -74,11 +74,19 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         } ,
         {
-            "name": "YouTube Cercube iSponsorBlock",
+            "name": "YouTube | Cercube | iSponsorBlock",
             "version": "17.05.2 | 5.3.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео.",
             "versionDate": "2022-02-07T13:31:00+0800",
+            "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
+        } ,
+        {
+            "name": "YouTube | uYou | iSponsorBlock",
+            "version": "17.05.2 | 2.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/uyou.ipa?raw=true",
+            "localizedDescription": "Лучший модифицированный клиент для YouTube с огромными возможностями.",
+            "versionDate": "2022-02-12T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -91,10 +99,10 @@
         },
         {
             "name": "Twitter++",
-            "version": "8.98",
+            "version": "8.99",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
-            "versionDate": "2022-02-04T13:31:00+0800",
+            "versionDate": "2022-02-12T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
         },
         {
@@ -107,10 +115,10 @@
         },
 		{
             "name": "Яндекс Музыка++",
-            "version": "6.52",
+            "version": "6.54",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/yamusic.ipa?raw=true",
             "localizedDescription": "Яндекс Музыка с полным взломом на подписку",
-            "versionDate": "2022-01-23T13:31:00+0800",
+            "versionDate": "2022-02-12T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/4DlNrc4XJ015b-iJ69IKRhCEL6mEsR-QuWqMPZ-oTJfVGfcF3OQVq8xSgwAQNuwUqQ",
         },
         {
