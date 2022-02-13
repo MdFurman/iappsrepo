@@ -43,18 +43,18 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "220 | 3.7.34",
+            "version": "221 | 3.7.35",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-02-06T13:31:00+0800",
+            "versionDate": "2022-02-13T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
             "name": "Instagram Plus",
-            "version": "221 | 2.40",
+            "version": "221 | 2.42",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/instaplus.ipa?raw=true",
             "localizedDescription": "Лучшая модификация Insagram, с огромными возможностями. Без взлома. Доступны бесплтаные функции.",
-            "versionDate": "2022-02-11T13:31:00+0800",
+            "versionDate": "2022-02-13T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -96,6 +96,14 @@
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей. Удалена рекламу, взломано на все функции.",
             "versionDate": "2022-02-04T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "VK Me",
+            "version": "1.102",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vkme/vkme.ipa?raw=true",
+            "localizedDescription": "Мессенджер Вконтакте.",
+            "versionDate": "2022-02-13T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/08/08/8d080895-ea98-4368-38d8-0d0d43820fad/VKMeAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "Twitter++",
@@ -347,10 +355,10 @@
         },
         {
             "name": "iScanner Pro",
-            "version": "4.30",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/iscanner/iscanner.ipa?raw=true",
+            "version": "4.32",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/iscanner.ipa?raw=true",
             "localizedDescription": "Один из лучших сканеров документов.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-02-13T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/14/cf/dd14cf04-29e4-b7ed-985c-80b37fe95e20/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
         },
         {
@@ -677,9 +685,17 @@
             "name": "Kinopab",
             "version": "1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/kinopab.ipa?raw=true",
-            "localizedDescription": "Приложение для просмотра и загрузки фильмов и сериалов. /n ❗️Приложение платное и работает по подписке.",
+            "localizedDescription": "Приложение для просмотра и загрузки фильмов и сериалов. n/ ❗️Приложение платное и работает по подписке.",
             "versionDate": "2022-02-11T13:31:00+0800",
             "iconURL": "https://static.appdb.to/images/cydia-1900000630-icon.png",
+        },
+        {
+            "name": "Vintage Logo | Pro",
+            "version": "5.2.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vintage.ipa?raw=true",
+            "localizedDescription": "Приложение для создания логотипов.",
+            "versionDate": "2022-02-13T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/55/a7/7f55a77c-602b-a103-5eba-323330d1ca1b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
