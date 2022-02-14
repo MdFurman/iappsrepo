@@ -691,6 +691,7 @@
         },
         {
             "name": "Vintage Logo | Pro",
+            "hide": "true",
             "version": "5.2.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vintage.ipa?raw=true",
             "localizedDescription": "Приложение для создания логотипов.",
