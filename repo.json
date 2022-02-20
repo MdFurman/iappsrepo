@@ -107,10 +107,10 @@
         },
         {
             "name": "Twitter++",
-            "version": "8.99",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitter.ipa?raw=true",
+            "version": "9.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/twitter/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
-            "versionDate": "2022-02-12T13:31:00+0800",
+            "versionDate": "2022-02-20T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
         },
         {
@@ -167,7 +167,7 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitch.ipa?raw=true",
             "localizedDescription": "Платформа для стриминга. \n- Удалена реклама",
             "versionDate": "2022-02-20T13:31:00+0800",
-            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c9/56/1cc9566d-a177-28b5-cc77-5438a797334e/TwitchAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "StarVPN Premium",
@@ -721,6 +721,14 @@
             "localizedDescription": "Сканер фотографий. \nДля активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана. ",
             "versionDate": "2022-02-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fb/a9/57fba913-91e3-7b95-7a21-61f4a9d6df9f/AppIconLite-1x_U007emarketing-0-6-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Plants vs Zombies 2 | Hack",
+            "version": "9.5.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/plants/pvz.ipa?raw=true",
+            "localizedDescription": "Соберите армию растений и встретьтесь с зомбаками. \n• Бесконечное количество монет; \n• Бесконечное количество драгоценностей; ",
+            "versionDate": "2022-02-20T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/64/8e/8c648e45-f968-83f5-5ada-4be06d1a28a1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
