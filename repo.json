@@ -754,5 +754,13 @@
             "versionDate": "2022-02-20T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/df/5f/9a/df5f9a1d-9cf8-6880-056c-9e9e1523dae5/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "Dead Cells",
+            "version": "2.4.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/deadcells/deadcells.ipa?raw=true",
+            "localizedDescription": "Dead Cells – это экшен-платформер, в котором вам предстоит окунуться в захватывающие 2D-сражения. \n• Взломано на DLC.",
+            "versionDate": "2022-02-20T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/35/40/7c/35407cb2-a1d2-530e-36af-032fec1de42a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/217x0w.webp",
+        },
     ]
 }
