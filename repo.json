@@ -738,5 +738,21 @@
             "versionDate": "2022-02-20T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/64/8e/8c648e45-f968-83f5-5ada-4be06d1a28a1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "Fallout Shelter | Mode",
+            "version": "1.14.14",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/fallout/fallaout.ipa?raw=true",
+            "localizedDescription": "Популярный симулятор. \n• В данном моде ваши ресурсы не будут тратиться. ",
+            "versionDate": "2022-02-20T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/93/ba/d493bab0-0d33-30a0-23de-da6e1659ef6d/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Minecraft",
+            "version": "1.18.12",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/minecraft/minecraft.ipa?raw=true",
+            "localizedDescription": "Симулятор №1 в AppStore. ",
+            "versionDate": "2022-02-20T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/df/5f/9a/df5f9a1d-9cf8-6880-056c-9e9e1523dae5/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
     ]
 }
