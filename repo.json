@@ -162,6 +162,14 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/2e/a2/a2/2ea2a2c6-4736-1977-ecb9-473d9dca9392/source/512x512bb.jpg",
         },
         {
+            "name": "Twitch | NoAds",
+            "version": "12.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitch.ipa?raw=true",
+            "localizedDescription": "Платформа для стриминга. \n- Удалена реклама",
+            "versionDate": "2022-02-20T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
+        },
+        {
             "name": "StarVPN Premium",
             "version": "3.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/starvpn.ipa?raw=true",
