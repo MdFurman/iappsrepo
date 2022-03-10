@@ -43,10 +43,10 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "222 | 3.7.35",
+            "version": "224.1 | 3.7.37",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-02-20T13:31:00+0800",
+            "versionDate": "2022-03-11T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -99,10 +99,10 @@
         } ,
         {
             "name": "WhatsApp Watusi Stalky",
-            "version": "22.2.76 | 1.1.11",
+            "version": "22.5.71 | 1.1.15",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/watusi.ipa?raw=true",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей. Удалена рекламу, взломано на все функции.",
-            "versionDate": "2022-02-04T13:31:00+0800",
+            "versionDate": "2022-03-11T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -323,10 +323,10 @@
         },
         {
             "name": "TurboVPN VIP",
-            "version": "2.8.7",
+            "version": "2.8.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/turbovpn.ipa?raw=true",
             "localizedDescription": "VPN клиент с активированой VIP подпиской.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-03-11T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/74/3d/4d743d72-43c8-21f8-8129-9d1b25347ee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
