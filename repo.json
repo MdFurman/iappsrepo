@@ -147,10 +147,10 @@
         },
         {
             "name": "Spotify++",
-            "version": "8.6.94",
+            "version": "8.7.12",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/spotify.ipa?raw=true",
             "localizedDescription": "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-03-15T13:31:00+0800",
             "iconURL": "https://www.freeiconspng.com/uploads/spotify-icon-2.png",
         },
         {
