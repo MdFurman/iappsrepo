@@ -43,10 +43,10 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "224.1 | 3.7.37",
+            "version": "225 | 3.7.38",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-03-11T13:31:00+0800",
+            "versionDate": "2022-03-17T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -761,6 +761,14 @@
             "localizedDescription": "Dead Cells – это экшен-платформер, в котором вам предстоит окунуться в захватывающие 2D-сражения. \n• Взломано на DLC.",
             "versionDate": "2022-02-20T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/35/40/7c/35407cb2-a1d2-530e-36af-032fec1de42a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Signal VPN Premium",
+            "version": "2.1.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/signal.ipa?raw=true",
+            "localizedDescription": "Приложение VPN.",
+            "versionDate": "2022-03-17T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/6d/2f/fa/6d2ffa99-34c7-19e2-1c31-06f539ec6ffd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
