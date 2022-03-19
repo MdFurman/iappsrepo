@@ -134,7 +134,7 @@
             "version": "352 | 2.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/messenger.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Messenger.",
-            "versionDate": "2022-02-17T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/54/7c/a1/547ca106-83c1-9b71-f38d-76f39db4d1d9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
 		{
@@ -259,10 +259,10 @@
         },
         {
             "name": "Smule VIP",
-            "version": "10.3.5",
+            "version": "10.4.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/smule.ipa?raw=true",
             "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
-            "versionDate": "2022-02-08T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -315,10 +315,10 @@
         },
         {
             "name": "Calm Premium",
-            "version": "5.31.0",
+            "version": "5.36.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/calm.ipa?raw=true",
             "localizedDescription": "Приложение с большим количеством приятной музыки для сна, релакса, снятия стресса и тд.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9d/d1/559dd1a5-ec33-a5da-2c14-42ee1f09a29e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -331,10 +331,10 @@
         },
         {
             "name": "VivaVideo VIP",
-            "version": "9.1.5",
+            "version": "9.2.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vivavideo.ipa?raw=true",
             "localizedDescription": "Один из лучших редакторов видео с активированой подпиской.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/93/3d/30/933d30d8-6bbd-8072-23f0-6fb0f28b4787/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "name": "TeraBox | Premium",
-            "version": "2.10.2",
+            "version": "2.12.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/terabox.ipa?raw=true",
             "localizedDescription": "Бесплатное облачное хранилище на 1ТБ.",
-            "versionDate": "2022-02-04T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/21/81/87218176-5d16-04f4-4222-861b6d47da9d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -769,6 +769,14 @@
             "localizedDescription": "Приложение VPN.",
             "versionDate": "2022-03-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/6d/2f/fa/6d2ffa99-34c7-19e2-1c31-06f539ec6ffd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "1998 Vintage Cam Premium",
+            "version": "1.9.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/cam1988.ipa?raw=true",
+            "localizedDescription": "Создавайте красивые фото с эффектами винтажности.",
+            "versionDate": "2022-03-19T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/08/5a/1e085a87-dc1b-bcc4-4d45-9830d48ddf29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
     ]
 }
