@@ -123,10 +123,10 @@
         },
         {
             "name": "Facebook | Wolf",
-            "version": "353 | 2.1",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/fbwolf/facebook.ipa?raw=true",
+            "version": "358 | 2.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/facebook/facebook.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Facebook.",
-            "versionDate": "2022-02-17T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/11/26/1b/11261bbf-f45b-c107-a9ed-ae7e8f69c325/Icon-Production-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -203,7 +203,7 @@
         },
         {
             "name": "Focos Pro",
-            "version": "2.5.3",
+            "version": "2.5.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/focos/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
             "versionDate": "2022-01-17T13:31:00+0800",
@@ -219,7 +219,7 @@
         },
         {
             "name": "InShot Pro",
-            "version": "1.56.0",
+            "version": "1.57.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/inshot/inshot.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
             "versionDate": "2022-01-17T13:31:00+0800",
