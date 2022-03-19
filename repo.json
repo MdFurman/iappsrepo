@@ -115,10 +115,10 @@
         },
         {
             "name": "Twitter++",
-            "version": "9.0",
+            "version": "9.4.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/twitter/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
-            "versionDate": "2022-02-20T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
         },
         {
