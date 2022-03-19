@@ -43,10 +43,10 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "225 | 3.7.38",
+            "version": "226 | 3.7.38",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-03-17T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -171,10 +171,10 @@
         },
         {
             "name": "Twitch | NoAds",
-            "version": "12.3",
+            "version": "12.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitch.ipa?raw=true",
             "localizedDescription": "Платформа для стриминга. \n- Удалена реклама",
-            "versionDate": "2022-02-20T13:31:00+0800",
+            "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c9/56/1cc9566d-a177-28b5-cc77-5438a797334e/TwitchAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
