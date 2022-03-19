@@ -778,5 +778,13 @@
             "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/08/5a/1e085a87-dc1b-bcc4-4d45-9830d48ddf29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "VPN Prime Premium",
+            "version": "2.0.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vpnprime.ipa?raw=true",
+            "localizedDescription": "Приложение VPN.",
+            "versionDate": "2022-03-19T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/90/8c/b1908c85-2cf5-b836-2e89-0197981d42d1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
     ]
 }
