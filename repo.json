@@ -786,5 +786,13 @@
             "versionDate": "2022-03-19T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/90/8c/b1908c85-2cf5-b836-2e89-0197981d42d1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "Playlisty",
+            "version": "2.7",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/playlisty.ipa?raw=true",
+            "localizedDescription": "Перенос музыки с Spotify и YouTube в Apple Music. \n Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "versionDate": "2022-04-01T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/af/ab/ee/afabee9f-f864-c1d2-efa1-533769bcba18/AppIcon-1x_U007emarketing-2-0-85-220.png/230x0w.png",
+        },
     ]
 }
