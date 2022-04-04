@@ -818,5 +818,14 @@
             "versionDate": "2022-04-03T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/77/7a/f1/777af111-25d6-f91f-966a-6d7ad58ca491/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "Playdead's INSIDE | Полная версия",
+            "version": "1.1.8",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/inside/inside.ipa?raw=true",
+            "localizedDescription": "Шедевр! INSIDE представляет собой двухмерный платформер-головоломку, который оттолкнулся от успеха LIMBO и даже превзошел ее.",
+            "versionDate": "2022-04-04T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/b6/a8/3bb6a81e-b6cf-0e49-2640-938eba3d75aa/AppIcon-1x_U007emarketing-0-9-0-85-220.png/230x0w.png",
+        },
+       
     ]
 }
