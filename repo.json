@@ -763,12 +763,12 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/1b/f4/1c1bf47a-8ef7-9f8c-64c8-4b9c79a6b197/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/230x0w.jpg",
         },
         {
-            "name": "Flappy Bird",
-            "version": "4.1.0",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/flappybird.ipa?raw=true",
-            "localizedDescription": "Та самая игра из-за которой тебя бомбило.",
-            "versionDate": "2022-01-17T13:31:00+0800",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/ru/f/f3/Flappy_Bird_logo.jpeg",
+            "name": "Story Chic",
+            "version": "4.7.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/storychic.ipa?raw=true",
+            "localizedDescription": "Редактор историй в Instagram. \n Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "versionDate": "2022-04-08T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/db/c4/77/dbc47783-f7e1-1fdf-158a-f9be8fff7691/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "Flappy Bird",
