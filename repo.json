@@ -363,10 +363,10 @@
         },
         {
             "name": "Infuse 7 Pro",
-            "version": "7.3.6",
+            "version": "7.3.8",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-04-08T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/43/74/5e437487-0681-b00e-cc4f-85f36113d00c/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
@@ -643,10 +643,10 @@
         },
         {
             "name": "TeraBox | Premium",
-            "version": "2.12.1",
+            "version": "2.14",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/terabox.ipa?raw=true",
             "localizedDescription": "Бесплатное облачное хранилище на 1ТБ.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-04-08T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/21/81/87218176-5d16-04f4-4222-861b6d47da9d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
