@@ -323,10 +323,10 @@
         },
         {
             "name": "TurboVPN VIP",
-            "version": "2.8.9",
+            "version": "2.9.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/turbovpn.ipa?raw=true",
             "localizedDescription": "VPN клиент с активированой VIP подпиской.",
-            "versionDate": "2022-03-11T13:31:00+0800",
+            "versionDate": "2022-04-10T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/74/3d/4d743d72-43c8-21f8-8129-9d1b25347ee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
