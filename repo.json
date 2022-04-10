@@ -858,6 +858,14 @@
             "versionDate": "2022-02-20T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/35/40/7c/35407cb2-a1d2-530e-36af-032fec1de42a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
+        {
+            "name": "The Room",
+            "version": "1.0.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/r1/r1.ipa?raw=true",
+            "localizedDescription": "Одна из самых популярных игр головоломок.",
+            "versionDate": "2022-04-10T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a6/5a/f4/a65af4a7-97b6-742a-d898-4f73b0cedbc0/AppIcon-1x_U007emarketing-5-0-85-220.png/230x0w.png",
+        },
        
     ]
 }
