@@ -383,7 +383,7 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
             "versionDate": "2022-04-18T13:31:00+0800",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/43/74/5e437487-0681-b00e-cc4f-85f36113d00c/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
             "name": "LumaFusion",
@@ -889,6 +889,22 @@
             "localizedDescription": "Dead Cells – это экшен-платформер, в котором вам предстоит окунуться в захватывающие 2D-сражения. \n• Взломано на DLC.",
             "versionDate": "2022-02-20T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/35/40/7c/35407cb2-a1d2-530e-36af-032fec1de42a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Plague Inc. Hack",
+            "version": "1.18.8",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/plague.ipa?raw=true",
+            "localizedDescription": "Сможете ли вы заразить весь мир? Игра Plague Inc. — это уникальное сочетание стратегии и ужасающе реалистичного симулятора.\nДля взлома дополнений начните покупку контента, во время появления окна нажмите ʼотменаʼ, покупка будет взломана.",
+            "versionDate": "2022-04-18T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/11/3d/9c/113d9c2c-c8a6-8257-5111-3541527dd933/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Grimvalor",
+            "version": "1.2.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/grimvalor/grimvalor.ipa?raw=true",
+            "localizedDescription": "Grimvalor - мир темного фэнтези, игрокам предстоит участвовать в динамичных hackn slash сражениях в стиле Devil May Cry или Dust: An Elysian Tale.",
+            "versionDate": "2022-04-18T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bc/9f/b8/bc9fb864-6496-0130-6d24-8fefb4041ef1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "The Room",
