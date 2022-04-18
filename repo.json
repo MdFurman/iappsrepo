@@ -283,10 +283,10 @@
         },
         {
             "name": "TouchRetouch",
-            "version": "5.0.4",
+            "version": "5.0.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/touchretouch.ipa?raw=true",
             "localizedDescription": "Ваше карманное приложение для быстрого удаления нежелательных объектов с фотографий.",
-            "versionDate": "2022-01-31T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -323,10 +323,10 @@
         },
         {
             "name": "FilmicPro",
-            "version": "6.17.4",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/filmic.ipa?raw=true",
+            "version": "6.18",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/filmic/filmic.ipa?raw=true",
             "localizedDescription": "Самая продвинутая кинематографическая видеокамера для мобильных устройств",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/38/35/0a3835ca-7402-2a93-d49c-cc268c6e18e6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -411,10 +411,10 @@
         },
         {
             "name": "Pixelmator Photo",
-            "version": "2.0.1",
+            "version": "2.0.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pixelmator/pixelphoto.ipa?raw=true",
             "localizedDescription": "Один из самых топовых фоторедакторов теперь доступен и на iPhone.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/62/40/cb62402c-0f6a-94f3-b88b-489ca5410ab9/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
         },
         {
