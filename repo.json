@@ -43,10 +43,10 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "228 | 3.7.40",
+            "version": "230 | 3.7.40",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-03-31T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -179,10 +179,10 @@
         },
         {
             "name": "StarVPN Premium",
-            "version": "3.4",
+            "version": "3.5.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/starvpn.ipa?raw=true",
             "localizedDescription": "VPN клиент со взломом на подписку.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg",
         },
         {
@@ -259,10 +259,10 @@
         },
         {
             "name": "Smule VIP",
-            "version": "10.4.5",
+            "version": "10.5.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/smule.ipa?raw=true",
             "localizedDescription": "Популярнейшее приложение для любителей караоке. Активированы премиум функции.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/38/6b/f0386b83-a8d9-fe24-ba51-c74918e4684b/AppIcon-CCCP-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -291,10 +291,10 @@
         },
         {
             "name": "Photomatch Plus",
-            "version": "8.0",
+            "version": "8.4.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/photomatch.ipa?raw=true",
             "localizedDescription": "Решайте математические задачи легко. Чтобы подписка Plus работала измените язык на английский в приложении.",
-            "versionDate": "2022-01-23T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/41/e9/69/41e96976-47ba-35c0-d9f6-706cba89f7ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -304,6 +304,14 @@
             "localizedDescription": "PDF Pro 4 даёт возможность читать, редактировать и аннотировать документы в формате PDF.",
             "versionDate": "2022-01-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/91/6e/c0/916ec096-e8e7-a35d-c41d-8b3981d0b37a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "PDF Expert Pro",
+            "version": "7.9.8",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pdfexpert/pdfexpert.ipa?raw=true",
+            "localizedDescription": "Одно из самых лучших приложений по работе с PDF документами.",
+            "versionDate": "2022-04-18T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/45/d1/ea45d1b4-95d5-d392-de0f-901a09fd1a83/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/230x0w.png",
         },
         {
             "name": "FilmicPro",
@@ -331,10 +339,10 @@
         },
         {
             "name": "VivaVideo VIP",
-            "version": "9.2.0",
+            "version": "9.3.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vivavideo.ipa?raw=true",
             "localizedDescription": "Один из лучших редакторов видео с активированой подпиской.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/93/3d/30/933d30d8-6bbd-8072-23f0-6fb0f28b4787/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -363,10 +371,10 @@
         },
         {
             "name": "Infuse 7 Pro",
-            "version": "7.3.8",
+            "version": "7.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
-            "versionDate": "2022-04-08T13:31:00+0800",
+            "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/43/74/5e437487-0681-b00e-cc4f-85f36113d00c/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
