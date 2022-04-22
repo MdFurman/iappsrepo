@@ -140,7 +140,7 @@
         {
             "name": "YouTube Music | Ultimate",
             "version": "5.02.1",
-            "downloadURL": "ttps://github.com/MdFurman/iappsrepo/blob/main/ipa/ytmusic.ipa?raw=true",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/ytmusic.ipa?raw=true",
             "localizedDescription": "Сервис лицензионной музыки от YouTube.\nУдалена реклама и доступно прослушивание в фоне. Кэша нет!",
             "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/75/57/87/75578775-d18b-985f-0929-68de0bd8f233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
