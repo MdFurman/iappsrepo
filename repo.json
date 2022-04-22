@@ -62,7 +62,7 @@
             "version": "17.15.1 | 5.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео. \n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
-            "versionDate": "2022-04-21T13:31:00+0800",
+            "versionDate": "2022-04-22T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -115,10 +115,10 @@
         },
         {
             "name": "Twitter++",
-            "version": "9.4.1",
+            "version": "9.7.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/twitter/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-04-22T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "name": "PicsArt Gold",
-            "version": "19.2.3",
+            "version": "19.6.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-03-28T13:31:00+0800",
+            "versionDate": "2022-04-22T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -721,6 +721,14 @@
             "localizedDescription": "Приложение VPN.",
             "versionDate": "2022-03-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/6d/2f/fa/6d2ffa99-34c7-19e2-1c31-06f539ec6ffd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Aloha | VPN | Hack",
+            "version": "4.0.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/aloha.ipa?raw=true",
+            "localizedDescription": "Веб браузер с VPN.\nДля активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "versionDate": "2022-04-22T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/58/15/4c5815ad-fff5-137d-18d7-02b8c41403a8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
             "name": "1998 Vintage Cam Premium",
