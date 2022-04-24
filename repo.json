@@ -59,10 +59,10 @@
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
-            "version": "17.15.1 | 5.3.9",
+            "version": "17.15.2 | 5.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео. \n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
-            "versionDate": "2022-04-22T13:31:00+0800",
+            "versionDate": "2022-04-24T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -75,10 +75,10 @@
         } ,
         {
             "name": "TikTok | LRD | Hack",
-            "version": "24.0.0 | 1.9",
+            "version": "24.1.0 | 1.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/lrd/lrd.ipa?raw=true",
             "localizedDescription": "Новая модификация TikTok с огромным количеством функций и возможностей.",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "versionDate": "2022-04-24T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         } ,
         {
@@ -811,12 +811,28 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/fb/9f/8bfb9fcd-9c43-8cbe-d7e1-ca337fb10c4c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "Clarity Pro",
+            "version": "7.2.6",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/clarity/clarity.ipa?raw=true",
+            "localizedDescription": "Выбирайте или создавайте обои под свой вкус.",
+            "versionDate": "2022-04-24T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/11/9f/4f119f18-a028-995d-76e2-97b35e2723ab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
             "name": "Guru Maps Pro",
             "version": "4.10.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/gurumaps.ipa?raw=true",
             "localizedDescription": "Удобные и быстрые оффлайн карты.",
             "versionDate": "2022-04-23T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/e4/31/95e431e0-fc97-2281-c597-25e740062ba2/AppIconPro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Ventusky",
+            "version": "18",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/ventusky/ventusky.ipa?raw=true",
+            "localizedDescription": "Профессиональный прогноз погоды. Но если мама скажет взять зонт, лучше возьми =)",
+            "versionDate": "2022-04-24T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/02/52/6e025293-f8aa-355b-ffca-fecc7134559d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "Flappy Bird",
