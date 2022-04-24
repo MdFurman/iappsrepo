@@ -138,6 +138,14 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/54/7c/a1/547ca106-83c1-9b71-f38d-76f39db4d1d9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "Mobigram | Premium",
+            "version": "4.9.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/mobigram/mobigram.ipa?raw=true",
+            "localizedDescription": "Модифицированный клиент Telegram с оффлайном, нечиталкой, изменением голоса и др.",
+            "versionDate": "2022-04-24T13:31:00+0800",
+            "iconURL": "https://telegram.im/img/mobogram_net",
+        },
+        {
             "name": "YouTube Music | Ultimate",
             "version": "5.02.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/ytmusic.ipa?raw=true",
