@@ -98,11 +98,11 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         } ,
         {
-            "name": "WhatsApp | Watusi | Stalky | OnlineNotify",
-            "version": "22.7.79 | 1.1.17 | 4.1.14 | 3.3.13",
+            "name": "WhatsApp | Watusi | Stalky",
+            "version": "22.9.76 | 1.1.23 | 4.1.14",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/wa/wa.ipa?raw=true",
             "localizedDescription": "Стандартный клиент для общения, дополненный огромным количеством возможностей.\nДля взлома Watusi в настройках твиак создайте и войдите в аккаунт, это бесплтано.",
-            "versionDate": "2022-04-10T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/9e/2a/009e2ab6-54fa-b317-447d-1b61e0c07cbc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -155,10 +155,10 @@
         } ,
 		{
             "name": "Яндекс Музыка++",
-            "version": "5.70",
+            "version": "5.73",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/yamusic.ipa?raw=true",
             "localizedDescription": "Яндекс Музыка с полным взломом на подписку",
-            "versionDate": "2022-03-20T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/4DlNrc4XJ015b-iJ69IKRhCEL6mEsR-QuWqMPZ-oTJfVGfcF3OQVq8xSgwAQNuwUqQ",
         },
         {
@@ -219,10 +219,10 @@
         },
         {
             "name": "Focos Pro",
-            "version": "2.5.5",
+            "version": "2.5.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/focos/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
         },
         {
@@ -804,10 +804,10 @@
         },
         {
             "name": "EnhanceFox | Pro | Extra",
-            "version": "5.0.0",
+            "version": "5.1.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/efox/efox.ipa?raw=true",
             "localizedDescription": "Улучшайте ваши фото и видео в несколько кликов.\n Для взлома Extra Cards начните покупку Extra, во время появление окна оплаты нажмите отмена, покупка будет взломана.",
-            "versionDate": "2022-04-21T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/68/5a/97685a57-3b3a-e976-c625-633b332c7351/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -857,6 +857,14 @@
             "localizedDescription": "Things поможет планировать день, эффективно разбираться с проектами и добиваться поставленных целей.",
             "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/95/d8/6e/95d86ebd-fa5f-022e-cfac-38ead4bf6042/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "AirMail Pro",
+            "version": "5.2.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/airmail/airmail.ipa?raw=true",
+            "localizedDescription": "Один из лучших почтовых клиентов.",
+            "versionDate": "2022-04-29T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/c5/36/b8c53608-ab17-dd9e-69d0-47b632798e8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "СберБанк",
