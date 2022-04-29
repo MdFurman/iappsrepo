@@ -43,10 +43,10 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "230 | 3.7.40",
+            "version": "232 | 3.7.42",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -147,10 +147,10 @@
         },
         {
             "name": "YouTube Music | Ultimate",
-            "version": "5.02.1",
+            "version": "5.04.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/ytmusic.ipa?raw=true",
             "localizedDescription": "Сервис лицензионной музыки от YouTube.\nУдалена реклама и доступно прослушивание в фоне. Кэша нет!",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/75/57/87/75578775-d18b-985f-0929-68de0bd8f233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         } ,
 		{
@@ -227,10 +227,10 @@
         },
         {
             "name": "Focos Live Pro",
-            "version": "1.4.1",
+            "version": "1.4.7",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/focoslive.ipa?raw=true",
             "localizedDescription": "Профессиональный видеоредактор.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/46/6c/b8466c25-1b02-2de5-d176-48de636121e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -339,10 +339,10 @@
         },
         {
             "name": "Calm Premium",
-            "version": "5.36.0",
+            "version": "5.39",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/calm.ipa?raw=true",
             "localizedDescription": "Приложение с большим количеством приятной музыки для сна, релакса, снятия стресса и тд.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9d/d1/559dd1a5-ec33-a5da-2c14-42ee1f09a29e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "name": "ESign Ru",
-            "version": "4.3.7",
+            "version": "4.4.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-02-17T13:31:00+0800",
+            "versionDate": "2022-04-29T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
         {
@@ -841,6 +841,22 @@
             "localizedDescription": "Профессиональный прогноз погоды. Но если мама скажет взять зонт, лучше возьми =)",
             "versionDate": "2022-04-24T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/02/52/6e025293-f8aa-355b-ffca-fecc7134559d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Kinemaster",
+            "version": "5.2.10",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/kinemaster.ipa?raw=true",
+            "localizedDescription": "Сделайте процесс редактирования видео легким и простым с помощью мощных инструментов KineMaster.",
+            "versionDate": "2022-04-29T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/f7/47/c3f74773-9558-b502-82f8-c7fba4e5bbbd/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Things 3",
+            "version": "3.15.17",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/things.ipa?raw=true",
+            "localizedDescription": "Things поможет планировать день, эффективно разбираться с проектами и добиваться поставленных целей.",
+            "versionDate": "2022-04-29T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/95/d8/6e/95d86ebd-fa5f-022e-cfac-38ead4bf6042/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "СберБанк",
