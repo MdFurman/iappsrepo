@@ -330,6 +330,14 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/45/d1/ea45d1b4-95d5-d392-de0f-901a09fd1a83/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/230x0w.png",
         },
         {
+            "name": "FineReader PDF | Pro",
+            "version": "15.2.10",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/finereader.ipa?raw=true",
+            "localizedDescription": "Ваш умный карманный сканер для документов и книг от ведущего мирового разработчика.",
+            "versionDate": "2022-04-30T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/d0/eb/0fd0eb6e-c381-1662-6e26-f02e921a96dd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
+        },
+        {
             "name": "FilmicPro",
             "version": "6.18",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/filmic/filmic.ipa?raw=true",
