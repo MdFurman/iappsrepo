@@ -1034,6 +1034,14 @@
             "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/79/e5/77/79e5775a-8baa-543b-d2d6-9aeea7a223e5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/230x0w.png",
         },
+        {
+            "name": "This War of Mine",
+            "version": "2.0.53",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/warofmine/war.ipa?raw=true",
+            "localizedDescription": "Кроссплатформенная компьютерная игра в жанре сайдскроллерного симулятора выживания.",
+            "versionDate": "2022-05-01T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/40/00/8f/40008fe3-e6ee-6330-6e42-8ee5e9922c5d/AppIcon-1x_U007emarketing-0-10-85-220.png/230x0w.png",
+        },
        
     ]
 }
