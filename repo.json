@@ -1081,6 +1081,14 @@
             "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/de/74/61/de74616a-0288-0d8a-091e-1c6f97b78c55/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
+        {
+            "name": "Limbo",
+            "version": "1.2.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/limbo/limbo.ipa?raw=true",
+            "localizedDescription": "Безусловно одна из лучших хоррор игр в AppStore",
+            "versionDate": "2022-05-02T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/49/c3/c849c39e-3289-e0e0-8390-fbc786a261fb/AppIcon-1x_U007emarketing-0-9-0-85-220.png/246x0w.png",
+        },
         
        
     ]
