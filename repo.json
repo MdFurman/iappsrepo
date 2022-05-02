@@ -403,10 +403,10 @@
         },
         {
             "name": "LumaFusion",
-            "version": "3.0.9",
+            "version": "3.0.11",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/luma/lumafusion.ipa?raw=true",
             "localizedDescription": "Лучшее и самое функциональное приложение для монтажа на iOS.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/3b/c6/bc3bc610-32ef-2705-494b-622f61db0e9b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
