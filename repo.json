@@ -1034,12 +1034,20 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/79/e5/77/79e5775a-8baa-543b-d2d6-9aeea7a223e5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/230x0w.png",
         },
         {
-            "name": "This War of Mine",
+            "name": "This War of Mine | Hack",
             "version": "2.0.53",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/warofmine/war.ipa?raw=true",
-            "localizedDescription": "Кроссплатформенная компьютерная игра в жанре сайдскроллерного симулятора выживания.",
-            "versionDate": "2022-05-01T13:31:00+0800",
+            "localizedDescription": "Кроссплатформенная компьютерная игра в жанре сайдскроллерного симулятора выживания.\nДля взлома дополнения начните покупку контента, во время появления окна нажмите ʼотменаʼ, покупка будет взломана.",
+            "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/40/00/8f/40008fe3-e6ee-6330-6e42-8ee5e9922c5d/AppIcon-1x_U007emarketing-0-10-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Very Little Nightmares",
+            "version": "1.2.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vln/vln.ipa?raw=true",
+            "localizedDescription": "Откройте для себя мир приключенческой игры с элементами головоломки Very Little Nightmares, одновременно милой и жуткой.\nВ игре не работают сохранения! Держите игру в фоне или залипните на разочек, в противном случае игра начнется сначала.",
+            "versionDate": "2022-05-02T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/14/27/d31427c5-5fa2-b234-43dc-f47ffc9ada8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
        
     ]
