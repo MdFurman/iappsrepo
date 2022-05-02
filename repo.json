@@ -1069,9 +1069,17 @@
             "name": "Monument Valley",
             "version": "2.10.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/mv1/mv1.ipa?raw=true",
-            "localizedDescription": "ПMonument Valley - это сюрреалистическое исследование фантастической архитектуры и невероятной геометрии. Ведите молчаливую принцессу Иду по таинственным памятникам, открывая скрытые тропы и обнаруживая оптические иллюзии, стремясь перехитрить загадочных людей-ворон.",
+            "localizedDescription": "Monument Valley - это сюрреалистическое исследование фантастической архитектуры и невероятной геометрии. Ведите молчаливую принцессу Иду по таинственным памятникам, открывая скрытые тропы и обнаруживая оптические иллюзии, стремясь перехитрить загадочных людей-ворон.",
             "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ff/47/64/ff4764ba-09df-a2a4-5491-bfe440be91cd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "Monument Valley 2",
+            "version": "2.0.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/mv2/mv2.ipa?raw=true",
+            "localizedDescription": "Monument Valley 2 — это совершенно новое приключение в прекрасном мире невозможного. Помогите Ро обучить дочку всем тайнам долины, исследуя потрясающие уровни и управляя архитектурными объектами, чтобы провести их к цели.",
+            "versionDate": "2022-05-02T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/de/74/61/de74616a-0288-0d8a-091e-1c6f97b78c55/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
