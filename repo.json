@@ -1057,6 +1057,15 @@
             "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/8d/15/aa8d150d-a690-0544-ee7c-34f4ffbb192e/Icon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/246x0w.png",
         },
+        {
+            "name": "Hill Climb | Hack",
+            "version": "1.54.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/hill/hill.ipa?raw=true",
+            "localizedDescription": "Пора вспомнить молодость в гонках твоего детства.\nДля взлома валюты в игре начните покупку контента, во время появления окна нажмите ʼотменаʼ, покупка будет взломана.",
+            "versionDate": "2022-05-02T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/3b/49/9b3b49d3-fc63-140f-269b-922b8959fea9/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        
        
     ]
 }
