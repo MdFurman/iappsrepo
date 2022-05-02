@@ -1049,6 +1049,14 @@
             "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/14/27/d31427c5-5fa2-b234-43dc-f47ffc9ada8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
+        {
+            "name": "NFS Most Wanted | iGG",
+            "version": "1.1.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/nfsmw/nfsmw.ipa?raw=true",
+            "localizedDescription": "Гонки которые не требуют представления.\nВ игру добавлен твик для накрутки валюты. Для новичков чуть позже напишем инструкцию.",
+            "versionDate": "2022-05-02T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/8d/15/aa8d150d-a690-0544-ee7c-34f4ffbb192e/Icon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/246x0w.png",
+        },
        
     ]
 }
