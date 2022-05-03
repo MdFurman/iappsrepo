@@ -59,7 +59,7 @@
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
-            "version": "17.16.4 | 5.3.9",
+            "version": "17.17.4 | 5.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео. \n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
             "versionDate": "2022-04-27T13:31:00+0800",
@@ -1088,6 +1088,22 @@
             "localizedDescription": "Безусловно одна из лучших хоррор игр в AppStore",
             "versionDate": "2022-05-02T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/49/c3/c849c39e-3289-e0e0-8390-fbc786a261fb/AppIcon-1x_U007emarketing-0-9-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "The House of Da Vinci",
+            "version": "1.1.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/davinci/davinci.ipa?raw=true",
+            "localizedDescription": "Откройте двери в The House of Da Vinci, новую 3D-паззл игру. Решайте механические загадки, находите скрытые объекты, сбегайте из комнат и окунитесь в подлинную атмосферу эпохи Возрождения.",
+            "versionDate": "2022-05-03T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/b6/af/3db6af2a-297c-0d3f-9542-8a408a79b5a2/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220.png/246x0w.png",
+        },
+        {
+            "name": "The House of Da Vinci 2",
+            "version": "1.0.9",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/davinci2/davinci2.ipa?raw=true",
+            "localizedDescription": "Долгожданный сиквел игры The House of Da Vinci наконец-то в продаже! Присоединитесь к более чем 2.000.000 игроков со всего мира и отправьтесь в это новое полностью трехмерное приключение.",
+            "versionDate": "2022-05-03T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/de/43/9e/de439eaa-ff38-fc6d-3892-c084be3093e7/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
