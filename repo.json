@@ -1066,14 +1066,6 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/3b/49/9b3b49d3-fc63-140f-269b-922b8959fea9/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
-            "name": "Monument Valley",
-            "version": "2.10.2",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/mv1/mv1.ipa?raw=true",
-            "localizedDescription": "Monument Valley - это сюрреалистическое исследование фантастической архитектуры и невероятной геометрии. Ведите молчаливую принцессу Иду по таинственным памятникам, открывая скрытые тропы и обнаруживая оптические иллюзии, стремясь перехитрить загадочных людей-ворон.",
-            "versionDate": "2022-05-02T13:31:00+0800",
-            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ff/47/64/ff4764ba-09df-a2a4-5491-bfe440be91cd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-        },
-        {
             "name": "Monument Valley 2",
             "version": "2.0.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/mv2/mv2.ipa?raw=true",
