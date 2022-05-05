@@ -323,10 +323,10 @@
         },
         {
             "name": "PDF Expert Pro",
-            "version": "7.9.8",
+            "version": "7.9.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pdfexpert/pdfexpert.ipa?raw=true",
             "localizedDescription": "Одно из самых лучших приложений по работе с PDF документами.",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "versionDate": "2022-05-05T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/45/d1/ea45d1b4-95d5-d392-de0f-901a09fd1a83/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/230x0w.png",
         },
         {
@@ -429,7 +429,7 @@
             "name": "PicSew | Hack",
             "version": "3.8.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsew.ipa?raw=true",
-            "localizedDescription": "Создавайте длинные скриншоты в несколько касаний.",
+            "localizedDescription": "Создавайте длинные скриншоты в несколько касаний.\n Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
             "versionDate": "2022-05-05T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/46/9a/85469a9d-2160-ad55-fdcf-a8de3f29ec81/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/246x0w.jpg",
         },
@@ -440,6 +440,14 @@
             "localizedDescription": "Один из самых топовых фоторедакторов теперь доступен и на iPhone.",
             "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/62/40/cb62402c-0f6a-94f3-b88b-489ca5410ab9/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.png",
+        },
+        {
+            "name": "ToonHub | Pro",
+            "version": "3.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/toonhub/toonhub.ipa?raw=true",
+            "localizedDescription": "Создавайте фото и видео в мультяшных и других стилях с помощью искусственного интелекта.",
+            "versionDate": "2022-05-05T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/28/51/c52851dc-bdd4-8871-889a-8980f1fcb39d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "ESign Ru",
@@ -1104,6 +1112,22 @@
             "localizedDescription": "Долгожданный сиквел игры The House of Da Vinci наконец-то в продаже! Присоединитесь к более чем 2.000.000 игроков со всего мира и отправьтесь в это новое полностью трехмерное приключение.",
             "versionDate": "2022-05-03T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/de/43/9e/de439eaa-ff38-fc6d-3892-c084be3093e7/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "Subway Surfers++",
+            "version": "2.33",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/subway/subway.ipa?raw=true",
+            "localizedDescription": "Вся игровая валюта взломана на максимум.",
+            "versionDate": "2022-05-05T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ff/c3/1cffc347-2075-2275-60a0-e9c8a6b7c064/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "8BallPool++",
+            "version": "5.7.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/8ball/8ball.ipa?raw=true",
+            "localizedDescription": "Лучший виртуальный бильярд в мире!\nВ игре актвирована бесконечная линия прицеливания.",
+            "versionDate": "2022-05-05T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/71/39/ee713951-2ef7-2ba3-f157-88f6976c3237/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
