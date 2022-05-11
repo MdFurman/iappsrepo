@@ -43,10 +43,10 @@
         },
 		{
             "name": "Instagram Rocket Hack",
-            "version": "232 | 3.7.42",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/igrocket.ipa?raw=true",
+            "version": "234 | 3.7.42",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/rocket/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-04-29T13:31:00+0800",
+            "versionDate": "2022-05-11T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -59,10 +59,10 @@
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
-            "version": "17.17.4 | 5.3.9",
+            "version": "17.18.4 | 5.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео. \n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
-            "versionDate": "2022-04-27T13:31:00+0800",
+            "versionDate": "2022-05-11T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -75,10 +75,10 @@
         } ,
         {
             "name": "TikTok | LRD | Hack",
-            "version": "24.1.0 | 1.9",
+            "version": "24.2.0 | 1.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/lrd/lrd.ipa?raw=true",
             "localizedDescription": "Новая модификация TikTok с огромным количеством функций и возможностей.",
-            "versionDate": "2022-04-24T13:31:00+0800",
+            "versionDate": "2022-05-11T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/83/f9/ed83f971-1141-1e7e-787a-c54ae179c385/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         } ,
         {
@@ -211,11 +211,11 @@
         },
         {
             "name": "Вкармане ТВ Pro",
-            "version": "4.1.4",
+            "version": "5.0.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tv/vkarmane.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра ТВ со взломом на подписку.",
-            "versionDate": "2022-01-17T13:31:00+0800",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/37/c7/d4/37c7d499-6d82-ad4c-90b3-d4913de0a0d9/source/200x200bb.jpg",
+            "versionDate": "2022-05-11T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/64/1c/46641cf8-7296-d631-711e-9d07caabaa29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "Focos Pro",
@@ -451,10 +451,10 @@
         },
         {
             "name": "ESign Ru",
-            "version": "4.4.4",
+            "version": "4.4.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-04-29T13:31:00+0800",
+            "versionDate": "2022-05-11T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
         {
