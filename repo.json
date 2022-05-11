@@ -178,6 +178,14 @@
             "iconURL": "https://inceptum-stor.icons8.com/3tDtW969i5Om/6a3d8faecc26b7feb243c608cdf1c158_icon.png",
         },
         {
+            "name": "NLP Music",
+            "version": "1.0.1-24",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/nlpmusic.ipa?raw=true",
+            "localizedDescription": "Приложение для прослушивания и загрузки музыки из ВК.\nДля скачивания в кэш откройте песню и нажмите кнопку загрузки(стрелочку)",
+            "versionDate": "2022-04-27T13:31:00+0800",
+            "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/nlp.jpg?raw=true",
+        },
+        {
             "name": "Glazba",
             "version": "2.4.15",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/glazba/glazba.ipa?raw=true",
@@ -360,6 +368,14 @@
             "localizedDescription": "VPN клиент с активированой VIP подпиской.",
             "versionDate": "2022-04-10T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/74/3d/4d743d72-43c8-21f8-8129-9d1b25347ee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "VPN GO | VIP",
+            "version": "1.0.12",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vpngo.ipa?raw=true",
+            "localizedDescription": "VPN клиент с активированой VIP подпиской.",
+            "versionDate": "2022-05-11T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/19/5f/01195f88-d67e-2045-7166-a5a99a11f42e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "VivaVideo VIP",
@@ -784,14 +800,6 @@
             "localizedDescription": "Перенос музыки с Spotify и YouTube в Apple Music. \n Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
             "versionDate": "2022-04-01T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/af/ab/ee/afabee9f-f864-c1d2-efa1-533769bcba18/AppIcon-1x_U007emarketing-2-0-85-220.png/230x0w.png",
-        },
-        {
-            "name": "NLP Music",
-            "version": "1.0.1-24",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/nlpmusic.ipa?raw=true",
-            "localizedDescription": "Приложение для прослушивания и загрузки музыки из ВК.\nДля скачивания в кэш откройте песню и нажмите кнопку загрузки(стрелочку)",
-            "versionDate": "2022-04-27T13:31:00+0800",
-            "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/nlp.jpg?raw=true",
         },
         {
             "name": "iCab | Hack",
