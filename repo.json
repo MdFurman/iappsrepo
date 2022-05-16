@@ -506,6 +506,14 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/46/9a/85469a9d-2160-ad55-fdcf-a8de3f29ec81/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/246x0w.jpg",
         },
         {
+            "name": "Splice | Pro",
+            "version": "4.25.7",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/splice/splice.ipa?raw=true",
+            "localizedDescription": "Удобный и мощный видеоредактор.\nДля активации взлома:\n• Зажмите двумя пальцами в любой области экрана в приложении;\n• Активируйте ползунок «User is subscribed from SM»",
+            "versionDate": "2022-05-16T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/4c/b1/9f4cb11e-0334-4ef3-73cb-ff0770303ea2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Pixelmator Photo",
             "version": "2.0.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pixelmator/pixelphoto.ipa?raw=true",
