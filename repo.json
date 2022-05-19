@@ -1099,10 +1099,10 @@
         },
         {
             "name": "Plants vs Zombies 2 | Hack",
-            "version": "9.5.1",
+            "version": "9.7.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/plants/pvz.ipa?raw=true",
             "localizedDescription": "Соберите армию растений и встретьтесь с зомбаками. \n• Бесконечное количество монет; \n• Бесконечное количество драгоценностей; ",
-            "versionDate": "2022-02-20T13:31:00+0800",
+            "versionDate": "2022-05-19T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/64/8e/8c648e45-f968-83f5-5ada-4be06d1a28a1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -1194,7 +1194,7 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/14/27/d31427c5-5fa2-b234-43dc-f47ffc9ada8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
-            "name": "NFS Most Wanted | iGG",
+            "name": "NFS Most Wanted | iGameGod",
             "version": "1.1.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/nfsmw/nfsmw.ipa?raw=true",
             "localizedDescription": "Гонки которые не требуют представления.\nВ игру добавлен твик для накрутки валюты. Для новичков чуть позже напишем инструкцию.",
@@ -1288,6 +1288,14 @@
             "localizedDescription": "Слишком много вопросов… Так, нет времени на вопросы, ребята. Зомби Апокалипсис уже здесь! Торопитесь! Запрыгивайте на ваших механизированных драконов и в бой, чтобы спасти человечество!\nДобавлен твик iGameGod для накрутки валюты.\nИнструкцию по использованию читайте в iApps Premium.",
             "versionDate": "2022-05-19T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/b6/d9/30/b6d930e2-f9f9-64e6-223d-f439e13e5679/AppIcon-0-1x_U007emarketing-0-85-220-9.png/246x0w.png",
+        },
+        {
+            "name": "The Sims™ Mobile | Mode",
+            "version": "33.0.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/thesims/sims.ipa?raw=true",
+            "localizedDescription": "Создавайте свою семью, наделяйте их уникальными личностями и настраивайте их мир с большей детализацией, чем когда-либо прежде на мобильных устройствах.\n• Заработанные моенеты умножаются;\n• Бесконечная энергия;",
+            "versionDate": "2022-05-19T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/a3/b0/53a3b044-8432-81e7-5627-c79c9d684186/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         
        
