@@ -450,6 +450,22 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/99/b0/0099b0f1-14f0-107d-fba3-4ddd396e5c30/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "Streaks",
+            "version": "7.5.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/streaks.ipa?raw=true",
+            "localizedDescription": "Streaks помогает формировать правильные привычки.",
+            "versionDate": "2022-05-19T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/b8/0f/1eb80f8d-5a45-7d37-25d2-b782f25d780d/AppIcon-Unfilled-2x-4-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Streaks Workout",
+            "version": "5.1.5",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/streaksworkout.ipa?raw=true",
+            "localizedDescription": "Личный тренер, которым по-настоящему хочется пользоваться.\nТренируйтесь дома, в парке, в спортивном зале, в любом месте!",
+            "versionDate": "2022-05-19T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/b1/de/77b1deda-c3c7-a352-8c87-6c319b462d15/AppIcon-1x_U007emarketing-0-4-0-85-220.png/246x0w.png",
+        },
+        {
             "name": "Simpler Premium",
             "version": "2.5.13",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/simpler/simpler.ipa?raw=true",
