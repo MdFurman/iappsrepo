@@ -482,6 +482,14 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/3b/c6/bc3bc610-32ef-2705-494b-622f61db0e9b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
+            "name": "Procreate Pocket",
+            "version": "4.0.6",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/procreatepocket/procreatepocket.ipa?raw=true",
+            "localizedDescription": "Популярное графическое приложение для iPhone, которое одинаково знают и любят как профессионалы, так и начинающие художники",
+            "versionDate": "2022-05-19T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a4/c2/f9a4c260-c73a-42a9-f1d1-cc08eca3f74e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.png",
+        },
+        {
             "name": "iScanner Pro",
             "version": "4.32",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/iscanner.ipa?raw=true",
