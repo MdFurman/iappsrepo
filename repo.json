@@ -466,6 +466,14 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/b1/de/77b1deda-c3c7-a352-8c87-6c319b462d15/AppIcon-1x_U007emarketing-0-4-0-85-220.png/246x0w.png",
         },
         {
+            "name": "Water Minder",
+            "version": "5.1.4",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/water/water.ipa?raw=true",
+            "localizedDescription": "WaterMinder - это простое, интуитивно понятное приложение для отслеживания потребления воды. На основе вашего веса (или личной цели) WaterMinder будет напоминать вам пить воду для достижения ежедневной цели",
+            "versionDate": "2022-05-19T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/0e/94/300e94d9-d87f-a7a6-041c-b5fb3754a178/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Simpler Premium",
             "version": "2.5.13",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/simpler/simpler.ipa?raw=true",
