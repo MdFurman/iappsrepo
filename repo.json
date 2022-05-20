@@ -51,10 +51,10 @@
         } ,
         {
             "name": "Instagram | Plus | Ru",
-            "version": "233 | 2.44",
+            "version": "235.1 | 2.44",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/instaplus.ipa?raw=true",
             "localizedDescription": "Лучшая модификация Insagram, с огромными возможностями. Без взлома. Доступны бесплтаные функции.",
-            "versionDate": "2022-05-05T13:31:00+0800",
+            "versionDate": "2022-05-20T13:31:00+0800",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
         } ,
         {
@@ -355,18 +355,18 @@
         },
         {
             "name": "Instories Pro",
-            "version": "5.0.0",
+            "version": "5.7.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/instories/instories.ipa?raw=true",
             "localizedDescription": "Instories с активированой Pro подпиской.",
-            "versionDate": "2022-02-17T13:31:00+0800",
+            "versionDate": "2022-05-20T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/9c/8b/e99c8b61-2e23-1045-6d90-a3a87315bfb1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "PicsArt Gold",
-            "version": "19.6.5",
+            "version": "19.8.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-04-22T13:31:00+0800",
+            "versionDate": "2022-05-20T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -1296,6 +1296,14 @@
             "localizedDescription": "Создавайте свою семью, наделяйте их уникальными личностями и настраивайте их мир с большей детализацией, чем когда-либо прежде на мобильных устройствах.\n• Заработанные моенеты умножаются;\n• Бесконечная энергия;",
             "versionDate": "2022-05-19T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/a3/b0/53a3b044-8432-81e7-5627-c79c9d684186/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "while True: learn()",
+            "version": "1.2.91",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/while/while.ipa?raw=true",
+            "localizedDescription": "В этой игре вы окажетесь в роли программиста, который неожиданно узнал, что его кот гораздо лучше разбирается в компьютерах, чем он сам (но при этом не очень-то разбирается в человеческом языке). Теперь этот программист (то есть, вы) должен всесторонне освоить машинное обучение, чтобы создать систему-переводчик с кошачьего на человеческий",
+            "versionDate": "2022-05-20T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/78/64/2c/78642c50-250d-9986-55d0-938b99866d79/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
