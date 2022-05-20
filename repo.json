@@ -1313,6 +1313,14 @@
             "versionDate": "2022-05-20T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/78/65/f5/7865f5fa-00b3-cb58-6ae1-c9c9db8ba830/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
+        {
+            "name": "Shadow Fight 3 | Mode",
+            "version": "1.28.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/sf3/sf3.ipa?raw=true",
+            "localizedDescription": "Shadow Fight 3 - это известный РПГ файтинг, который продолжает историю вселенной Shadow Fight с новыми героями в 3D..\n- Враги заморожены",
+            "versionDate": "2022-05-20T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/55/f0/0a/55f00a8d-53a3-802e-3442-36e2e38b781a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
         
        
     ]
