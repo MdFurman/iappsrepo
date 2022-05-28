@@ -1098,6 +1098,14 @@
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/02/52/6e025293-f8aa-355b-ffca-fecc7134559d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "Windy.app | Pro",
+            "version": "10.9.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/windy.ipa?raw=true",
+            "localizedDescription": "Точный прогноз погоды для любой точки мира.",
+            "versionDate": "2022-05-28T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/20/11/d42011b0-b9be-b5c4-0d52-a700a27000f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Kinemaster Premium",
             "version": "6.0.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/kinemaster.ipa?raw=true",
