@@ -458,6 +458,14 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/d0/eb/0fd0eb6e-c381-1662-6e26-f02e921a96dd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
+            "name": "Opener",
+            "version": "1.10.14",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/opener.ipa?raw=true",
+            "localizedDescription": "С Opener вы сможете открывать ссылки в приложениях вместо браузера.\n\n❗️Для автоматического открытия ссылок установите команду «Open with Opener»\n- Opener > Настройки > Shortcuts\n\nОткрывать ссылки нужно через меню:\nПоделиться > Open with Opener",
+            "versionDate": "2022-06-01T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/c2/da/f3c2da75-65eb-12d1-e6f2-987773833673/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "FilmicPro",
             "version": "6.18",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/filmic/filmic.ipa?raw=true",
