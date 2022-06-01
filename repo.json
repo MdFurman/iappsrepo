@@ -59,10 +59,10 @@
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
-            "version": "17.19.3 | 5.3.9",
+            "version": "17.21.3 | 5.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео. \n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
-            "versionDate": "2022-05-23T13:31:00+0800",
+            "versionDate": "2022-06-01T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -1496,6 +1496,14 @@
             "localizedDescription": "Streets of Rage 4 — это новая глава серии Streets of Rage. Это ретро-beat'em up с рисовкой в стиле комиксов и улучшенными игровыми механиками.\n\n- Для взлома дополнений начните покупку контента, во время появления окна нажмите ʼотменаʼ, покупка будет взломана.",
             "versionDate": "2022-05-24T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/35/21/a1352102-505b-7e0d-4cd0-014b81686538/AppIcons-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Oceanhorn 2",
+            "version": "3.0",
+            "downloadURL": "https://up-ipa.xyz/uploads/ocenhorn2.ipa",
+            "localizedDescription": "Oceanhorn 2: Knights of the Lost Realm Golden Edition! Хочешь отправиться в РПГ-путешествие, которое никогда не забудешь? На сегодняшний день это лучший вариант игры, который содержит совершенно новый контент, квесты, предметы и улучшения!",
+            "versionDate": "2022-06-01T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/53/60/cb5360ca-ca90-056f-bbba-20d3e65d3945/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
