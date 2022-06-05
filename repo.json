@@ -219,18 +219,18 @@
         },
         {
             "name": "Documents | Plus",
-            "version": "8.5.0",
+            "version": "8.5.18",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/documents.ipa?raw=true",
             "localizedDescription": "Универсальный файловый менеджер.",
-            "versionDate": "2022-05-12T13:31:00+0800",
+            "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/47/d6/ec47d6f7-41dd-80c8-5700-71a164099abb/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/246x0w.png",
         },
         {
             "name": "PDF Expert Pro",
-            "version": "7.9.9",
+            "version": "7.9.11",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/pdfexpert/pdfexpert.ipa?raw=true",
             "localizedDescription": "Одно из самых лучших приложений по работе с PDF документами.",
-            "versionDate": "2022-05-05T13:31:00+0800",
+            "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/45/d1/ea45d1b4-95d5-d392-de0f-901a09fd1a83/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/230x0w.png",
         },
         {
@@ -355,10 +355,10 @@
         },
         {
             "name": "Reface | Pro",
-            "version": "2.12.0",
+            "version": "3.0.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/reface.ipa?raw=true",
             "localizedDescription": "Безупречное приложение для замены лиц в считанные секунды.",
-            "versionDate": "2022-05-16T13:31:00+0800",
+            "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/89/f9/93/89f99309-439c-ba84-7546-78ef3d1fb7ca/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "name": "PicsArt | Gold",
-            "version": "19.8.2",
+            "version": "19.9.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-05-20T13:31:00+0800",
+            "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -643,11 +643,19 @@
         },
         {
             "name": "ESign Ru",
-            "version": "4.4.7.1",
+            "version": "4.4.8",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-05-21T13:31:00+0800",
+            "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
+        },
+        {
+            "name": "Gbox",
+            "version": "3.5.6",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/gbox.ipa?raw=true",
+            "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
+            "versionDate": "2022-06-05T13:31:00+0800",
+            "iconURL": "https://gbox.pub/Public/resources/icon256.png",
         },
         {
             "name": "MyFitnessPal | Premium",
@@ -867,10 +875,10 @@
         },
         {
             "name": "Mondly | Premium",
-            "version": "9.14.0",
+            "version": "9.22.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/mondly.ipa?raw=true",
             "localizedDescription": "Приложение для изучения языков.",
-            "versionDate": "2022-01-29T13:31:00+0800",
+            "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/ce/49/4ace4933-38f2-f57e-7568-e5739fd9080a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
