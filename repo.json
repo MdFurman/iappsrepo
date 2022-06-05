@@ -220,7 +220,7 @@
         {
             "name": "Documents | Plus",
             "version": "8.5.18",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/documents.ipa?raw=true",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/documents/documents.ipa?raw=true",
             "localizedDescription": "Универсальный файловый менеджер.",
             "versionDate": "2022-06-05T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/47/d6/ec47d6f7-41dd-80c8-5700-71a164099abb/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/246x0w.png",
