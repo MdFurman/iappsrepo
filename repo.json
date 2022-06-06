@@ -643,10 +643,10 @@
         },
         {
             "name": "ESign Ru",
-            "version": "4.4.8",
+            "version": "4.4.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-06-05T13:31:00+0800",
+            "versionDate": "2022-06-06T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
         {
