@@ -1554,6 +1554,14 @@
             "versionDate": "2022-06-09T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/0a/f2/9f0af24a-9c76-e58a-6a2d-8b5fdce0711f/AppIcon-1x_U007emarketing-0-9-0-85-220.png/246x0w.png",
         },
+        {
+            "name": "Angry Birds Reloaded | Arcade",
+            "version": "1.11.13",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/arcade/angryreloaded.ipa?raw=true",
+            "localizedDescription": "Самая знаменитая стая в мире вернулась в новой версии нашумевшей мобильной игры. Неважно, взрослый ты или ребенок, — запускать птиц из рогатки любят все, особенно если это Ред, Чак, Бомб и Силвер! В Angry Birds Reloaded тебя ждет знакомый, основанный на физике геймплей оригинальной игры, а также улучшенная графика, новые персонажи и безграничные возможности разрушения!",
+            "versionDate": "2022-06-09T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/df/8d/3fdf8d32-c747-97cd-908c-cc4a4e149153/PlayerIcon.png/246x0w.png",
+        },
         
        
     ]
