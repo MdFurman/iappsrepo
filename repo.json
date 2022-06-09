@@ -652,10 +652,10 @@
         },
         {
             "name": "Gbox",
-            "version": "3.5.6",
+            "version": "3.6.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/gbox.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-06-05T13:31:00+0800",
+            "versionDate": "2022-06-09T13:31:00+0800",
             "iconURL": "https://gbox.pub/Public/resources/icon256.png",
         },
         {
@@ -668,10 +668,10 @@
         },
         {
             "name": "Wallcraft Pro",
-            "version": "2.7.4",
+            "version": "2.8",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/wallcraft.ipa?raw=true",
             "localizedDescription": "Совершенно новый уровень подхода к обоям",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-06-09T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/0a/54/e30a54bf-b486-3136-7a36-243bbf9af204/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/230x0w.png",
         },
         {
@@ -1078,7 +1078,7 @@
             "name": "Story Chic",
             "version": "4.7.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/storychic.ipa?raw=true",
-            "localizedDescription": "Редактор историй в Instagram.\nДля активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "localizedDescription": "Редактор историй в Instagram.\n- Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
             "versionDate": "2022-04-08T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/db/c4/77/dbc47783-f7e1-1fdf-158a-f9be8fff7691/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
@@ -1097,6 +1097,14 @@
             "localizedDescription": "Приложение для детальной диагностики вашего автомобиля.",
             "versionDate": "2022-04-18T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/fb/9f/8bfb9fcd-9c43-8cbe-d7e1-ca337fb10c4c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+        },
+        {
+            "name": "Car Scanner | Hack",
+            "version": "1.91.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/carscanner.ipa?raw=true",
+            "localizedDescription": "Лучшее приложение для диагностики и контроля автомобилей\n- Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "versionDate": "2022-06-09T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/38/b5/ba/38b5bab7-bdf9-0bae-aebd-7b39e07e9e22/AppIcon-1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "Clarity Pro",
@@ -1452,10 +1460,10 @@
         },
         {
             "name": "Shadow Hunter: Premium | Mode",
-            "version": "11.52.0",
+            "version": "11.55.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/shadowprem/shadprem.ipa?raw=true",
             "localizedDescription": "Shadow hunter - это захватывающая игра в жанре темного фэнтези с невероятной боевой системой и потрясающими боями.\n\n- Бесплатное улучшение предметов\n- Бесплатные покупки в магазине\n- Нет эволюционных условий",
-            "versionDate": "2022-05-20T13:31:00+0800",
+            "versionDate": "2022-06-09T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/78/65/f5/7865f5fa-00b3-cb58-6ae1-c9c9db8ba830/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
@@ -1521,6 +1529,14 @@
             "localizedDescription": "Oceanhorn 2: Knights of the Lost Realm Golden Edition! Хочешь отправиться в РПГ-путешествие, которое никогда не забудешь? На сегодняшний день это лучший вариант игры, который содержит совершенно новый контент, квесты, предметы и улучшения!",
             "versionDate": "2022-06-01T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/53/60/cb5360ca-ca90-056f-bbba-20d3e65d3945/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "Hungry Shark | Mode",
+            "version": "4.7.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/shark/hungryshark.ipa?raw=true",
+            "localizedDescription": "Вы — акула, так устройте неистовое всепожирающее безумие! Покоряйте океаны и пожирайте все на своем пути, от мелкой рыбы и птиц до жирных китов и зазевавшихся людишек!\n\n- Открыты все акулы",
+            "versionDate": "2022-06-09T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/62/42/5c/62425c3d-bff3-f8cf-215c-444ad17ae4a6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
