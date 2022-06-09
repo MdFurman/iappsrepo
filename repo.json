@@ -1523,7 +1523,7 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/35/21/a1352102-505b-7e0d-4cd0-014b81686538/AppIcons-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
-            "name": "Oceanhorn 2",
+            "name": "Oceanhorn 2 | Arcade",
             "version": "3.0",
             "downloadURL": "https://up-ipa.xyz/uploads/ocenhorn2.ipa",
             "localizedDescription": "Oceanhorn 2: Knights of the Lost Realm Golden Edition! Хочешь отправиться в РПГ-путешествие, которое никогда не забудешь? На сегодняшний день это лучший вариант игры, который содержит совершенно новый контент, квесты, предметы и улучшения!",
@@ -1537,6 +1537,22 @@
             "localizedDescription": "Вы — акула, так устройте неистовое всепожирающее безумие! Покоряйте океаны и пожирайте все на своем пути, от мелкой рыбы и птиц до жирных китов и зазевавшихся людишек!\n\n- Открыты все акулы",
             "versionDate": "2022-06-09T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/62/42/5c/62425c3d-bff3-f8cf-215c-444ad17ae4a6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "RaymanMini | Arcade",
+            "version": "1.4.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/arcade/RaymanMini.ipa?raw=true",
+            "localizedDescription": "Рэйман уменьшился до размеров букашки! Чтобы вернуть ему былое величие, вам предстоит отправиться в волшебное приключение. Взгляните на мир под увеличительным стеклом! Заручитесь поддержкой привычных растений, грибов и даже насекомых.",
+            "versionDate": "2022-06-09T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/84/f1/da/84f1da5d-0944-124c-9b8c-f2e4f872b410/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "ShadowBlade+ | Arcade",
+            "version": "1.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/arcade/shadowblade.ipa?raw=true",
+            "localizedDescription": "Куро - молодой человек, который поставил себе цель: стать Лезвием Тени. Для этого он должен найти учение последнего мастера ниндзя.Вы ведёте Куро через достаточно сложные уровни, мимо бесчисленных ловушек, скрываясь от врагов или переступая через их трупы.",
+            "versionDate": "2022-06-09T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/0a/f2/9f0af24a-9c76-e58a-6a2d-8b5fdce0711f/AppIcon-1x_U007emarketing-0-9-0-85-220.png/246x0w.png",
         },
         
        
