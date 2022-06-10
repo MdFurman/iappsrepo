@@ -11,10 +11,10 @@
 
         {
             "name": "VK Again",
-            "version": "7.12.1 | 3.3",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkagain.ipa?raw=true",
+            "version": "7.28 | 3.3",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vka/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
-            "versionDate": "2022-02-17T15:10:00+08:00",
+            "versionDate": "2022-06-10T15:10:00+08:00",
             "size":"<100000",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
@@ -419,7 +419,7 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/38/8b/7d/388b7dfe-4f55-031b-9444-b9f88551b98b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
-            "name": "FacTune 2 | Premium",
+            "name": "FaceTune 2 | Premium",
             "version": "Fix",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/fctn/fctn.ipa?raw=true",
             "localizedDescription": "Это больше чем редактор для селфи. В Facetune 2 есть все, что вам понадобится для потрясающих портретов!",
@@ -1561,6 +1561,14 @@
             "localizedDescription": "Самая знаменитая стая в мире вернулась в новой версии нашумевшей мобильной игры. Неважно, взрослый ты или ребенок, — запускать птиц из рогатки любят все, особенно если это Ред, Чак, Бомб и Силвер! В Angry Birds Reloaded тебя ждет знакомый, основанный на физике геймплей оригинальной игры, а также улучшенная графика, новые персонажи и безграничные возможности разрушения!",
             "versionDate": "2022-06-09T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/df/8d/3fdf8d32-c747-97cd-908c-cc4a4e149153/PlayerIcon.png/246x0w.png",
+        },
+        {
+            "name": "The Pathless | Arcade",
+            "version": "1.0.7",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/arcade/pathless.ipa.ipa?raw=true",
+            "localizedDescription": "The Pathless от создателей игры ABZÛ – это мистическое путешествие лучника и орла в бескрайнем лесу.",
+            "versionDate": "2022-06-10T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/ca/e7/eccae762-53d0-549a-d975-c99df2336c34/Pathless.png/246x0w.png",
         },
         
        
