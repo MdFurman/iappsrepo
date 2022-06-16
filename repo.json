@@ -340,10 +340,10 @@
         },
         {
             "name": "MyTuner Radio Pro",
-            "version": "8.3",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/radio.ipa?raw=true",
+            "version": "8.3.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/myradio/myradio.ipa?raw=true",
             "localizedDescription": "Больше 500 радиостанций со всего мира.",
-            "versionDate": "2022-02-09T13:31:00+0800",
+            "versionDate": "2022-06-16T13:31:00+0800",
             "iconURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nfguapdy2buz.png",
         },
         {
