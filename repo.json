@@ -253,9 +253,9 @@
         {
             "name": "Вкармане ТВ Pro",
             "version": "5.0.1",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/tv/vkarmane.ipa?raw=true",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vkarmanetv.ipa?raw=true",
             "localizedDescription": "Приложение для просмотра ТВ со взломом на подписку.",
-            "versionDate": "2022-05-11T13:31:00+0800",
+            "versionDate": "2022-06-16T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/64/1c/46641cf8-7296-d631-711e-9d07caabaa29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
@@ -292,10 +292,10 @@
         },
         {
             "name": "VPN Prime Premium",
-            "version": "2.0.2",
+            "version": "2.1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/vpnprime.ipa?raw=true",
             "localizedDescription": "Приложение VPN.",
-            "versionDate": "2022-03-19T13:31:00+0800",
+            "versionDate": "2022-06-16T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/90/8c/b1908c85-2cf5-b836-2e89-0197981d42d1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -372,10 +372,10 @@
         },
         {
             "name": "PicsArt | Gold",
-            "version": "19.9.2",
+            "version": "20.0.02",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picsart.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-06-05T13:31:00+0800",
+            "versionDate": "2022-06-16T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/0c/9a/5d0c9af6-579d-8342-0a34-5d95a1ab2d2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -523,6 +523,14 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/b8/0f/1eb80f8d-5a45-7d37-25d2-b782f25d780d/AppIcon-Unfilled-2x-4-0-85-220.png/246x0w.png",
         },
         {
+            "name": "WhiteNoise | VIP",
+            "version": "1.6.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/whitenoise.ipa?raw=true",
+            "localizedDescription": "Приложение с различными звуками для сна.",
+            "versionDate": "2022-06-16T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/31/e1/1c/31e11c19-cb00-26eb-b31e-65cd398bb2f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Streaks Workout",
             "version": "5.1.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/streaksworkout.ipa?raw=true",
@@ -556,10 +564,10 @@
         },
         {
             "name": "Infuse 7 Pro",
-            "version": "7.3.10",
+            "version": "7.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/infuse.ipa?raw=true",
             "localizedDescription": "Самый лучший медиаплеер в App Store.",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "versionDate": "2022-06-16T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
@@ -771,12 +779,12 @@
             "iconURL": "https://apkresult.com/Logos/hdo-player-apkresult.jpg",
         },
         {
-            "name": "Bazaart Premium",
-            "version": "7.4",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/bazaart.ipa?raw=true",
-            "localizedDescription": "Популярный фоторедактор.",
-            "versionDate": "2022-01-17T13:31:00+0800",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/33/42/2d334265-f65b-5e77-3024-5f3f96063969/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-85-220-0.png/230x0w.png",
+            "name": "Panels | Premium",
+            "version": "2.12.10",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/panels.ipa?raw=true",
+            "localizedDescription": "Лучшая читалка комиксов.",
+            "versionDate": "2022-06-16T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/25/3e/94/253e944a-2df8-0958-b1bd-1653d2429ebb/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
         },
         {
             "name": "Домашняя Библиотека Hack",
@@ -915,6 +923,22 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/12/2f/1c/122f1c13-ce09-67bf-cb24-07dc99674b7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
+            "name": "Dark Reader for Safari",
+            "version": "1.4.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/darkreader.ipa?raw=true",
+            "localizedDescription": "[Расширение Safari] Тёмный режим для любых сайтов в Safari.",
+            "versionDate": "2022-06-016T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/04/17/81/041781e6-105b-6d21-23a9-3d2d5b9ac245/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+        },
+        {
+            "name": "Any font for Safari",
+            "version": "1.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/darkreader.ipa?raw=true",
+            "localizedDescription": "[Расширение Safari] Используйте другие шрифты для любых сайтов в Safari.",
+            "versionDate": "2022-06-016T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/9d/2e/ea9d2e19-ade8-5039-3648-c14da20fcf04/AppIcon-1x_U007emarketing-0-4-85-220.png/246x0w.png",
+        },
+        {
             "name": "Songsterr | Pro",
             "version": "3.29.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/songsterr.ipa?raw=true",
@@ -1011,6 +1035,14 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/67/70/8b6770fe-bfa6-f96b-e3bd-84f1a5d8468e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "ProCam 8 | Hack",
+            "version": "13.6.6",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/procam.ipa?raw=true",
+            "localizedDescription": "Камера с отличным набором возможностей.\n- Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "versionDate": "2022-06-16T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bb/7c/45/bb7c4585-ddb7-4f66-fa3e-dd4f7b04d3fd/AppIcon-2-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Kinopub",
             "version": "1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/kinopab.ipa?raw=true",
@@ -1033,6 +1065,14 @@
             "localizedDescription": "Сканер фотографий. \nДля активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана. ",
             "versionDate": "2022-02-17T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fb/a9/57fba913-91e3-7b95-7a21-61f4a9d6df9f/AppIconLite-1x_U007emarketing-0-6-0-85-220.png/230x0w.png",
+        },
+        {
+            "name": "Prequel | Hack",
+            "version": "2.26.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/prequel/prequel.ipa?raw=true",
+            "localizedDescription": "Фото и видео редактор.\n- Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана. ",
+            "versionDate": "2022-06-16T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/3f/a8/ad3fa823-9a7e-85e4-14a8-c4d08127f024/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.png",
         },
         {
             "name": "1998 Vintage Cam Premium",
