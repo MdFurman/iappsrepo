@@ -1610,6 +1610,14 @@
             "versionDate": "2022-06-10T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/ca/e7/eccae762-53d0-549a-d975-c99df2336c34/Pathless.png/246x0w.png",
         },
+        {
+            "name": "Taiko no Tatsujin Pop Tap Beat | Arcade",
+            "version": "1.6.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/arcade/taiko.ipa?raw=true",
+            "localizedDescription": "Просто бей по нотам в такт!\nТа самая японская игра c барабанами «Мастер Тайко» (Taiko no Tatsujin) теперь доступна в Apple Arcade.",
+            "versionDate": "2022-06-16T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/14/99/9c/14999cec-ae8b-b33e-6d61-efc04cc77bf0/PlayerIcon.png/246x0w.png",
+        },
         
        
     ]
