@@ -11,10 +11,10 @@
 
         {
             "name": "VK Again",
-            "version": "7.28 | 3.3",
+            "version": "7.29 | 3.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/vka/vkagain.ipa?raw=true",
             "localizedDescription": "Клиент VK с полноценным офлайном, огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы и многим другим.",
-            "versionDate": "2022-06-10T15:10:00+08:00",
+            "versionDate": "2022-06-17T15:10:00+08:00",
             "size":"<100000",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/ea/28/9bea285a-8a45-e9ac-79b6-99a4aea6c801/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
@@ -651,11 +651,11 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/fb/a3/f4fba313-03d3-13d4-b3a1-58c5a66dcbdd/AppIcon-0-0-2x_U007euniversal-0-0-0-4-0-0-0-512MB-85-220.png/246x0w.png",
         },
         {
-            "name": "ESign Ru",
-            "version": "4.4.9",
+            "name": "ESign | Ru",
+            "version": "4.5.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-06-06T13:31:00+0800",
+            "versionDate": "2022-06-17T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
         {
