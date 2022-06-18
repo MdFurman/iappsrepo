@@ -1227,6 +1227,22 @@
             "iconURL": "https://apkshki.com/storage/6336/icon_5f5a33d966f6f_6336.png",
         },
         {
+            "name": "ГазпромБанк",
+            "version": "2.2.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/bbksun/gzpbnk.ipa?raw=true",
+            "localizedDescription": "Приложение банка ГазпромБанк",
+            "versionDate": "2022-06-18T13:31:00+0800",
+            "iconURL": "https://cdn6.aptoide.com/imgs/5/a/f/5afdcf861ce84e30096b5fe6d6a19101_icon.png",
+        },
+        {
+            "name": "МКБ - Мск. Кредитный Банк",
+            "version": "3.56.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/bbksun/mkb.ipa?raw=true",
+            "localizedDescription": "Приложение банка Московский Кредитный Банк",
+            "versionDate": "2022-06-18T13:31:00+0800",
+            "iconURL": "https://yt3.ggpht.com/ZRfHUni-GEmj4iOdkkoMtsmMd0uTKj1iSyNj6kGxjZpFmksOXFgKACwxq8loZ8hlwVWtheO7ew=s900-c-k-c0x00ffffff-no-rj",
+        },
+        {
             "name": "Flappy Bird",
             "version": "4.1.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/flappybird.ipa?raw=true",
