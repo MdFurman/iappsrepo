@@ -164,10 +164,10 @@
         },
         {
             "name": "YouTube Music | Ultimate",
-            "version": "5.08.1",
+            "version": "5.11.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/ytmusic.ipa?raw=true",
             "localizedDescription": "Сервис лицензионной музыки от YouTube.\nУдалена реклама и доступно прослушивание в фоне. Кэша нет!",
-            "versionDate": "2022-05-25T13:31:00+0800",
+            "versionDate": "2022-06-18T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/75/57/87/75578775-d18b-985f-0929-68de0bd8f233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         } ,
 		{
@@ -660,10 +660,10 @@
         },
         {
             "name": "Gbox",
-            "version": "3.6.5",
+            "version": "3.6.7",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/gbox.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-06-09T13:31:00+0800",
+            "versionDate": "2022-06-18T13:31:00+0800",
             "iconURL": "https://gbox.pub/Public/resources/icon256.png",
         },
         {
@@ -1308,10 +1308,10 @@
         },
         {
             "name": "Minecraft",
-            "version": "1.18.31",
+            "version": "1.19.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/minecraft/minecraft.ipa?raw=true",
             "localizedDescription": "Симулятор №1 в AppStore. ",
-            "versionDate": "2022-04-30T13:31:00+0800",
+            "versionDate": "2022-06-18T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/df/5f/9a/df5f9a1d-9cf8-6880-056c-9e9e1523dae5/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
