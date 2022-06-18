@@ -1067,6 +1067,22 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fb/a9/57fba913-91e3-7b95-7a21-61f4a9d6df9f/AppIconLite-1x_U007emarketing-0-6-0-85-220.png/230x0w.png",
         },
         {
+            "name": "PrettyUp | VIP",
+            "version": "4.9",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/prettyup/prettyup.ipa?raw=true",
+            "localizedDescription": "Фантастический редактор лица и тела.",
+            "versionDate": "2022-06-18T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/8e/19/6e8e19ad-3c64-9384-faef-3f8b688ace4b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "MagicEraser | Hack",
+            "version": "1.33.0",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/prettyup/prettyup.ipa?raw=true",
+            "localizedDescription": "Удаляйте фоны из любых изображений за несколько секунд.",
+            "versionDate": "2022-06-18T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/18/01/a018016d-56db-1ea1-8732-7fbb1285249d/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Prequel | Hack",
             "version": "2.26.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/prequel/prequel.ipa?raw=true",
