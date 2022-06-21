@@ -48,15 +48,7 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/rocket/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
             "versionDate": "2022-06-12T13:31:00+0800",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
-        } ,
-        {
-            "name": "Instagram | Plus | Ru",
-            "version": "236.1 | 2.44",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/igplus/igplus.ipa?raw=true",
-            "localizedDescription": "Лучшая модификация Instagram, с огромными возможностями. Без взлома. Доступны бесплатные функции.",
-            "versionDate": "2022-05-30T13:31:00+0800",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
+            "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/igrocket.png?raw=true",
         } ,
         {
             "name": "Instagram | LRD | Hack",
@@ -64,7 +56,15 @@
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/lrd/iglrd.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
             "versionDate": "2022-06-05T13:31:00+0800",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
+            "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/iglrd.png?raw=true",
+        } ,
+        {
+            "name": "Instagram | Plus | Ru",
+            "version": "236.1 | 2.44",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/igplus/igplus.ipa?raw=true",
+            "localizedDescription": "Лучшая модификация Instagram, с огромными возможностями. Без взлома. Доступны бесплатные функции.",
+            "versionDate": "2022-05-30T13:31:00+0800",
+            "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/igplus.png?raw=true",
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
