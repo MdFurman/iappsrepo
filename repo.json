@@ -1171,11 +1171,11 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/11/9f/4f119f18-a028-995d-76e2-97b35e2723ab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
-            "name": "Guru Maps Pro",
-            "version": "4.10.2",
+            "name": "Guru Maps | Pro",
+            "version": "5.0.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/gurumaps.ipa?raw=true",
             "localizedDescription": "Удобные и быстрые оффлайн карты.",
-            "versionDate": "2022-04-23T13:31:00+0800",
+            "versionDate": "2022-06-21T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/e4/31/95e431e0-fc97-2281-c597-25e740062ba2/AppIconPro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -1521,6 +1521,13 @@
             "localizedDescription": "Лучший виртуальный бильярд в мире!\nВ игре актирована бесконечная линия прицеливания.",
             "versionDate": "2022-05-05T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/71/39/ee713951-2ef7-2ba3-f157-88f6976c3237/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },{
+            "name": "Picolo | Hack",
+            "version": "10.23",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/picolo.ipa?raw=true",
+            "localizedDescription": "Игра для вечеринки.\n- Для активации взлома зажмите в любой части экрана двумя пальцами, активируйте тумблер «Revenue Cat» и нажимаем применить!",
+            "versionDate": "2022-06-21T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/19/07/59/190759c8-3ef0-5c13-4cbb-e5c0876dc50d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "Правда или Действие | Hack",
