@@ -44,18 +44,18 @@
         },
 		{
             "name": "Instagram | Rocket | Hack",
-            "version": "238 | 3.7.45",
+            "version": "240 | 3.7.45",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/rocket/igrocket.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-06-12T13:31:00+0800",
+            "versionDate": "2022-06-22T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/76/1f/c6/761fc680-afac-c5f4-6dd9-78cd6b4639ab/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         } ,
         {
             "name": "Instagram | LRD | Hack",
-            "version": "237 | 1.3",
+            "version": "240 | 1.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/lrd/iglrd.ipa?raw=true",
             "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-06-05T13:31:00+0800",
+            "versionDate": "2022-06-22T13:31:00+0800",
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/iglrd.png?raw=true",
         } ,
         {
@@ -68,10 +68,10 @@
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
-            "version": "17.22.3 | 5.3.9",
+            "version": "17.24.4 | 5.3.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео. \n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
-            "versionDate": "2022-06-08T13:31:00+0800",
+            "versionDate": "2022-06-22T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -84,10 +84,10 @@
         } ,
         {
             "name": "YouTube | uYou | iSponsorBlock",
-            "version": "17.19.3 | 2.1",
+            "version": "17.24.4 | 2.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/uyou/uyou.ipa?raw=true",
             "localizedDescription": "Лучший модифицированный клиент для YouTube с огромными возможностями.",
-            "versionDate": "2022-05-23T13:31:00+0800",
+            "versionDate": "2022-06-24T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -332,10 +332,10 @@
         },
         {
             "name": "InShot Pro",
-            "version": "1.59.4",
+            "version": "1.60",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/inshot/inshot.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-06-09T13:31:00+0800",
+            "versionDate": "2022-06-22T13:31:00+0800",
             "iconURL": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
         },
         {
@@ -475,11 +475,11 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/c2/da/f3c2da75-65eb-12d1-e6f2-987773833673/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
-            "name": "FilmicPro",
-            "version": "6.18",
+            "name": "FilmicPro | Hack",
+            "version": "6.19.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/filmic/filmic.ipa?raw=true",
-            "localizedDescription": "Самая продвинутая кинематографическая видеокамера для мобильных устройств",
-            "versionDate": "2022-04-18T13:31:00+0800",
+            "localizedDescription": "Самая продвинутая кинематографическая видеокамера для мобильных устройств. \n\n- Для взлома покупок начните покупку контента, во время появление окна оплаты нажмите кнопку 'отмена', покупка будет взломана.",
+            "versionDate": "2022-06-22T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/38/35/0a3835ca-7402-2a93-d49c-cc268c6e18e6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -652,10 +652,10 @@
         },
         {
             "name": "ESign | Ru",
-            "version": "4.5.0",
+            "version": "4.5.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/esign.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-06-17T13:31:00+0800",
+            "versionDate": "2022-06-22T13:31:00+0800",
             "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
         },
         {
@@ -1612,7 +1612,7 @@
         {
             "name": "Need for Speed No Limits | Mode",
             "version": "6.0.01",
-            "downloadURL": "https://up-ipa.xyz/uploads/nolimits.ipa",
+            "downloadURL": "https://www.dropbox.com/s/9m3zcz7ray35y7j/nolimits.ipa?dl=1",
             "localizedDescription": "Стань королем андеграунда — доминируй в гонке в специальном издании Need for Speed для мобильных устройств — игре от разработчиков Real Racing 3.\n\n- Бесконечное нитро",
             "versionDate": "2022-05-21T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/45/77/16/45771679-bab1-522d-ec13-0647a0e2b273/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
@@ -1644,7 +1644,7 @@
         {
             "name": "Oceanhorn 2 | Arcade",
             "version": "3.0",
-            "downloadURL": "https://up-ipa.xyz/uploads/ocenhorn2.ipa",
+            "downloadURL": "https://www.dropbox.com/s/jzlmv4hpql0yud3/Oceanhorn%202%203.0%5Btg%40arcade_ipa%5D.ipa?dl=1",
             "localizedDescription": "Oceanhorn 2: Knights of the Lost Realm Golden Edition! Хочешь отправиться в РПГ-путешествие, которое никогда не забудешь? На сегодняшний день это лучший вариант игры, который содержит совершенно новый контент, квесты, предметы и улучшения!",
             "versionDate": "2022-06-01T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/53/60/cb5360ca-ca90-056f-bbba-20d3e65d3945/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
