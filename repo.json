@@ -699,6 +699,14 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/b0/10/7ab01089-3495-41d7-6859-58fb9998ce40/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "Adobe Sketch | Fix",
+            "version": "4.9.10",
+            "downloadURL": "https://www.dropbox.com/s/keyu3hluajhg4kv/Adobe%20Sketch_Fix%5Btg%40iapps_ipa%5D.ipa?dl=1",
+            "localizedDescription": "Приложение для создания и редактирования графических объектов.",
+            "versionDate": "2022-06-23T13:31:00+0800",
+            "iconURL": "https://cdn-icons-png.flaticon.com/512/688/688101.png",
+        },
+        {
             "name": "InCollage Pro",
             "version": "1.8.9",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/incollage.ipa?raw=true",
