@@ -1801,6 +1801,30 @@
             "versionDate": "2022-06-16T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/05/a3/4305a340-246d-ddf5-426b-86beffc138b9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
+        {
+            "name": "Titan Quest LE | Русская озвучка",
+            "version": "2.10.4",
+            "downloadURL": "https://www.dropbox.com/s/730tbe3zulavxw9/%5BRU%5DTitan%20Quest%20LE%202.10.4%5Btg%40iapps_ipa%5D.ipa?dl=1?raw=true",
+            "localizedDescription": "Эпическая битва титанов! Самая полная версия.\nЕсли вы хотите добавить доп. DLC читайте инструкцию на канале.",
+            "versionDate": "2022-06-24T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/53/39/8f533932-5d06-4566-44c6-dd2782861257/AppIcon_FullEdition-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Crossy Castle | Arcade",
+            "version": "7.0",
+            "downloadURL": "https://www.dropbox.com/s/zqxxard3v1951l6/Crossy%20Castle_7.0.ipa?dl=1",
+            "localizedDescription": "Как далеко вы сможете забраться по бесконечной вращающейся башне?",
+            "versionDate": "2022-06-24T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/06/8e/a8/068ea8a4-a376-297b-a82d-4d2c477e5b10/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Sneaky Sasquatch | Arcade",
+            "version": "1.8.4",
+            "downloadURL": "https://www.dropbox.com/s/mnp47po9mj6i1l2/Sneaky%20Sasquatch%20v1.8.4%203.ipa?dl=1",
+            "localizedDescription": "Попробуйте себя в роли йети и займитесь привычными для него делами.",
+            "versionDate": "2022-06-24T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/45/81/35/45813596-ca76-92c4-cc22-cb42a737dac5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
         
        
     ]
