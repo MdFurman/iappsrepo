@@ -1203,6 +1203,14 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/08/5a/1e085a87-dc1b-bcc4-4d45-9830d48ddf29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
+            "name": "Hype Text | Premium",
+            "version": "2.6",
+            "downloadURL": "https://www.dropbox.com/s/ysn8pmd5j7ad79w/hypetext.ipa?dl=1",
+            "localizedDescription": "Создавайте интро для своих видео с уже готовыми анимациями.",
+            "versionDate": "2022-06-26T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/12/54/fc1254a9-918f-0abc-b912-18ed5b497936/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.png",
+        },
+        {
             "name": "Playlisty",
             "version": "2.7",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/playlisty.ipa?raw=true",
