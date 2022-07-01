@@ -67,6 +67,14 @@
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/igplus.png?raw=true",
         } ,
         {
+            "name": "Instagram | TXC | Hack",
+            "version": "241 | 3.1.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/rocket/igtxc.ipa?raw=true",
+            "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
+            "versionDate": "2022-07-01T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/76/1f/c6/761fc680-afac-c5f4-6dd9-78cd6b4639ab/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        } ,
+        {
             "name": "YouTube | Cercube | iSponsorBlock",
             "version": "17.25.1 | 5.3.10",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
@@ -236,10 +244,10 @@
         } ,
         {
             "name": "Twitch | NoAds",
-            "version": "13.0",
+            "version": "13.3",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/twitch.ipa?raw=true",
             "localizedDescription": "Платформа для стриминга. \n- Удалена реклама",
-            "versionDate": "2022-05-28T13:31:00+0800",
+            "versionDate": "2022-07-01T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c9/56/1cc9566d-a177-28b5-cc77-5438a797334e/TwitchAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -271,7 +279,7 @@
             "version": "1.8.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/itorrent.ipa?raw=true",
             "localizedDescription": "Torrent клиент для iOS.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-07-01T13:31:00+0800",
             "iconURL": "https://ds-blobs-3.cdn.devapps.ru/17036084.png",
         },
         {
