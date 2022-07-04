@@ -348,10 +348,10 @@
         },
         {
             "name": "Lightroom | Premium",
-            "version": "7.3.3",
+            "version": "7.4.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/lightroom/lightroom.ipa?raw=true",
             "localizedDescription": "Профессиональный фоторедактор.\nДля активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
-            "versionDate": "2022-05-16T13:31:00+0800",
+            "versionDate": "2022-07-04T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
@@ -1243,6 +1243,14 @@
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/d4/c6/d9d4c697-a9ff-4cc4-d4d0-07c585955f91/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/230x0w.jpg",
         },
         {
+            "name": "Artory | Pro",
+            "version": "3.0.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/photo/artory.ipa?raw=true",
+            "localizedDescription": "Тысячи шаблонов для Instagram.",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/82/b2/0e82b291-9634-840a-ce55-1eeba87872ac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "ImgPlay | Hack",
             "version": "6.1.12",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/imgplay.ipa?raw=true",
@@ -1268,10 +1276,10 @@
         },
         {
             "name": "EnhanceFox | Pro | Extra",
-            "version": "5.4.0",
+            "version": "5.6.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/efox/efox.ipa?raw=true",
             "localizedDescription": "Улучшайте ваши фото и видео в несколько кликов.\n Для взлома Extra Cards начните покупку Extra, во время появление окна оплаты нажмите отмена, покупка будет взломана.",
-            "versionDate": "2022-06-09T13:31:00+0800",
+            "versionDate": "2022-07-04T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/68/5a/97685a57-3b3a-e976-c625-633b332c7351/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -1779,6 +1787,14 @@
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/35/21/a1352102-505b-7e0d-4cd0-014b81686538/AppIcons-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
+            "name": "Oceanhorn",
+            "version": "3.4",
+            "downloadURL": "https://www.dropbox.com/s/k2oj0w1nbbpehfp/oceanhorn.ipa?dl=1",
+            "localizedDescription": "РАСПРАВЬ ПАРУСА И ОТПРАВЛЯЙСЯ НАВСТРЕЧУ ПРИКЛЮЧЕНИЯМ!\nВырасти из мальчика в легендарного героя.",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/62/87/c462872e-68b5-8b99-c9da-acc085395035/AppIconIOS-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/246x0w.png",
+        },
+        {
             "name": "Oceanhorn 2 | Arcade",
             "version": "3.0",
             "downloadURL": "https://www.dropbox.com/s/jzlmv4hpql0yud3/Oceanhorn%202%203.0%5Btg%40arcade_ipa%5D.ipa?dl=1",
@@ -1873,6 +1889,46 @@
             "localizedDescription": "Mini Motorways — это игра от создателей Mini Metro по развитию дорожной сети растущего города. Проводите дороги, одну за другой, чтобы создать настоящий мегаполис",
             "versionDate": "2022-06-24T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/02/2e/ba022e7b-5259-8cee-0c87-186f7081dca8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Outlanders | Arcade",
+            "version": "10",
+            "downloadURL": "https://www.dropbox.com/s/mdpa59ng0rw18zi/Outlanders.ipa?dl=1",
+            "localizedDescription": "Outlanders — симулятор градостроительства, где вы берете на себя роль предводителя группы обычных людей и вместе с ними обустраиваетесь на новом месте.",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/49/31/da/4931da19-100a-8c71-f6dd-d29b612befbf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Monster Hunter Stories",
+            "version": "1.00.05",
+            "downloadURL": "https://www.dropbox.com/s/vsi5bfgzdqjrhca/MH%20Stories.ipa?dl=1",
+            "localizedDescription": "Приключенческий экшен RPG с пошаговыми боями.",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/41/c8/f841c803-0596-e2c5-cafb-dc0d3962b88b/iOSAppIcon-1x_U007emarketing-0-9-85-220.png/246x0w.png",
+        },
+        {
+            "name": "The Last Campfire | Arcade",
+            "version": "1.6",
+            "downloadURL": "https://www.dropbox.com/s/s6z0ge5dg4xc86j/ltmcam.ipa?dl=1",
+            "localizedDescription": "Это история о приключениях потерявшегося уголька. Оказавшись в загадочном месте, он ищет путь домой, а заодно и свое предназначение.",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c9/3b/21/c93b2140-4629-67a3-5048-6327634cea28/PlayerIcon.png/246x0w.png",
+        },
+        {
+            "name": "Score! Hero | Hack",
+            "version": "2.40",
+            "downloadURL": "https://www.dropbox.com/s/2co7sdzb1n7wsjs/Score%21%20Hero.ipa?dl=1",
+            "localizedDescription": "СТАНЬТЕ ГЕРОЕМ! Вас ждет обласканный критиками и невероятно популярный среди игроков мобильный футбольный хит!\n\n- Неограниченная энергия\n- Безлимитные повторы",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/00/a9/0e/00a90e03-00fe-0f42-4ba6-b821b8a7b198/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Beholder 2",
+            "version": "1.7.15902",
+            "downloadURL": "https://www.dropbox.com/s/owc6eew4pmn3y9a/Beholder%202.ipa?dl=1",
+            "localizedDescription": "Вы – стажер Главного Тоталитарного Министерства, которому предстоит служить Мудрому Вождю, сделать головокружительную карьеру и узнать тайну смерти отца.",
+            "versionDate": "2022-07-04T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/5c/9c/f75c9ca4-6c88-0c56-08a4-858cad9901aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
