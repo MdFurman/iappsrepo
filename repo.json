@@ -60,10 +60,10 @@
         } ,
         {
             "name": "Instagram | Plus | Ru",
-            "version": "236.1 | 2.44",
+            "version": "242 | 2.44",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/igplus/igplus.ipa?raw=true",
             "localizedDescription": "Лучшая модификация Instagram, с огромными возможностями. Без взлома. Доступны бесплатные функции.",
-            "versionDate": "2022-05-30T13:31:00+0800",
+            "versionDate": "2022-07-11T13:31:00+0800",
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/igplus.png?raw=true",
         } ,
         {
@@ -155,12 +155,20 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/c7/94/cbc79405-0d10-6dcb-af1b-4f74be6d2d6d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
-            "name": "Twitter++",
-            "version": "9.13",
+            "name": "Twitter | BHTwitter",
+            "version": "9.15.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/twitter/twitter.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент Twitter без рекламы и другими фичами.",
-            "versionDate": "2022-06-09T13:31:00+0800",
+            "versionDate": "2022-07-11T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/90/7d/5d907d3b-26a4-af09-32e0-76a89437d6c7/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/146x0w.png",
+        },
+        {
+            "name": "Facebook | TxC | Hack",
+            "version": "374 | 3.1.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/facebook/fbtxc.ipa?raw=true",
+            "localizedDescription": "Модифицированный клиент Facebook.",
+            "versionDate": "2022-07-11T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/11/26/1b/11261bbf-f45b-c107-a9ed-ae7e8f69c325/Icon-Production-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
             "name": "Facebook | Wolf",
@@ -236,10 +244,10 @@
         },
         {
             "name": "KinoHome",
-            "version": "1.2",
-            "downloadURL": "https://www.dropbox.com/s/7jysvpktcrmgk2p/kinohome.ipa?dl=1",
+            "version": "1.4",
+            "downloadURL": "https://www.dropbox.com/s/osv2dza38m5anho/kinohome.ipa?dl=1",
             "localizedDescription": "Приложение для просмотра фильмов, сериалов и ТВ.",
-            "versionDate": "2022-06-27T13:31:00+0800",
+            "versionDate": "2022-07-11T13:31:00+0800",
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/kinohome.png?raw=true",
         } ,
         {
@@ -643,6 +651,14 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/cb/63/facb63d3-8799-940b-d9cc-f9d2c2f6d934/AppIconMac-0-2x_U007euniversal-0-4-0-0-0-85-220-0.png/230x0w.png",
         },
         {
+            "name": "Money Flow | Premium",
+            "version": "1.29.1",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/moneyflow.ipa?raw=true",
+            "localizedDescription": "Приложение для быстрого планирования, учёта и контроля расходов и доходов.",
+            "versionDate": "2022-07-11T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/39/bc/b139bc8d-acea-ed2b-1371-9d4b32ccf88c/AppIcon-5-10-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "LumaFusion",
             "version": "3.0.11",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/luma/lumafusion.ipa?raw=true",
@@ -705,6 +721,14 @@
             "localizedDescription": "Создавайте фото и видео в мультяшных и других стилях с помощью искусственного интеллекта.",
             "versionDate": "2022-05-05T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/28/51/c52851dc-bdd4-8871-889a-8980f1fcb39d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "STQR | Premium",
+            "version": "5.2",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/stqr.ipa?raw=true",
+            "localizedDescription": "STQR это самый простой и быстрый способ создать стикеры для Телеграм и Вотсапп.",
+            "versionDate": "2022-07-11T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/30/ef/4b30ef87-9961-cee4-3d03-3c76877c49e8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "Fimo | Hack",
@@ -868,10 +892,10 @@
         },
         {
             "name": "Movavi Clips Hack",
-            "version": "3.43.0",
+            "version": "3.51.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/movaviclips.ipa?raw=true",
             "localizedDescription": "Редактор видео.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-07-11T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/39/1b/5d/391b5de5-e3bb-2d97-93a3-9471782ed9a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
@@ -1300,10 +1324,10 @@
         },
         {
             "name": "Clarity Pro",
-            "version": "7.2.6",
+            "version": "7.3.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/clarity/clarity.ipa?raw=true",
             "localizedDescription": "Выбирайте или создавайте обои под свой вкус.",
-            "versionDate": "2022-04-24T13:31:00+0800",
+            "versionDate": "2022-07-11T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/11/9f/4f119f18-a028-995d-76e2-97b35e2723ab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
