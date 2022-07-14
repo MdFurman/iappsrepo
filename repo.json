@@ -2074,6 +2074,30 @@
             "versionDate": "2022-07-14T13:31:00+0800",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/87/7a/a1877aba-5a12-c849-3d4c-b9dde98948d0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.png",
         },
+        {
+            "name": "Subway Tag | Arcade",
+            "version": "1.0.7305",
+            "downloadURL": "https://www.dropbox.com/s/msoxkde9s5j4qv1/Subway%20Tag_1.0.7305.ipa?dl=1",
+            "localizedDescription": "Брось вызов охраннику на закрытых территориях, включая железную дорогу, парк, порт и подземную станцию.",
+            "versionDate": "2022-07-15T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/5e/92/f95e92e9-db48-f728-487b-3e11bae13e32/PlayerIcon.png/460x0w.png",
+        },
+        {
+            "name": "Cut the Rope Remastered | Arcade",
+            "version": "1.6.0",
+            "downloadURL": "https://www.dropbox.com/s/tem7no5sht9mag6/Cut%20the%20Rope_1.6.0.ipa?dl=1",
+            "localizedDescription": "Ам Ням и легендарная головоломка Cut the Rope теперь в 3D! Режьте веревки, обходите препятствия и пользуйтесь усилителями, чтобы зеленый сладкоежка Ам Ням не остался без леденцов.",
+            "versionDate": "2022-07-15T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/5f/d3/9a5fd36c-9418-6f84-e421-80416aec4f54/PlayerIcon.png/246x0w.png",
+        },
+        {
+            "name": "Hidden Folks+ | Arcade",
+            "version": "2.1.1",
+            "downloadURL": "https://www.dropbox.com/s/05wki5eygnn48k8/Hidden%20Folks%2B_2.1.1.ipa?dl=1",
+            "localizedDescription": "Найдите спрятанных человечков в интерактивных областях, нарисованных от руки. Залезайте в палатки, дразните крокодилов, пробирайтесь через кусты, и делайте многое другое! А-р-р-р-р-р-р-р-р-р!!!!!",
+            "versionDate": "2022-07-15T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/20/cf/4e/20cf4ecd-2ffb-68a3-e6fa-58368f037a04/PlayerIcon.png/246x0w.png",
+        },
         
        
     ]
