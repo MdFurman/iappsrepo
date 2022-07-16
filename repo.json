@@ -2098,6 +2098,38 @@
             "versionDate": "2022-07-15T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/20/cf/4e/20cf4ecd-2ffb-68a3-e6fa-58368f037a04/PlayerIcon.png/246x0w.png",
         },
+        {
+            "name": "Splitter Critters+ | Arcade",
+            "version": "1.3",
+            "downloadURL": "https://www.dropbox.com/s/85i13ovhiu6h32p/SplitterCritters%2B_1.3.ipa?dl=1",
+            "localizedDescription": "Делите мир, проводя пальцем, а затем переупорядочивайте его, чтобы провести существ обратно к их космическому кораблю. Исследуйте красочные планеты, полные опасностей, сложных головоломок и инновационной механики, которая заставит вас думать по-новому.",
+            "versionDate": "2022-07-16T13:31:00+0800",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/97/f4/18/97f4187c-23fa-f37c-b454-3064dfee873d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Super Leap Day | Arcade",
+            "version": "1.6",
+            "downloadURL": "https://www.dropbox.com/s/6dfd4nyz78i32bk/Super%20Leap%20Day_1.6.ipa?dl=1",
+            "localizedDescription": "На троне восседает новый король, который создал самые коварные задания в истории соревнования! Избегай ловушек в Дождливых руинах, мчись по стенам и потолкам на Городской трассе, управляй погодными условиями в Горячих и холодных источниках, незаметно пробирайся через Каньон раздора и летай вверх тормашками в Галактике Гравитация!",
+            "versionDate": "2022-07-16T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/e8/d1/4de8d13f-3dbe-c781-5f40-16254731a949/PlayerIcon.png/246x0w.png",
+        },
+        {
+            "name": "Warped Kart Racers | Arcade",
+            "version": "1.01",
+            "downloadURL": "https://www.dropbox.com/s/7ycb6ab2j4a5sbn/Warped%20Kart%20Racers_1.01.ipa?dl=1",
+            "localizedDescription": "Гоняйте и сражайтесь в одиночку или с друзьями за своих любимых персонажей из American Dad!, Family Guy, King of the Hill и Solar Opposites!",
+            "versionDate": "2022-07-16T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/c4/e8/d6c4e85b-0c01-2070-f1ba-9adb4e28cdab/PlayerIcon.png/246x0w.png",
+        },
+        {
+            "name": "Warped Kart Racers | Arcade",
+            "version": "1.4.1",
+            "downloadURL": "https://www.dropbox.com/s/qhap4nle3ueusnd/WCF_1.4.1.ipa?dl=1",
+            "localizedDescription": "Where Cards Fall — это срез развития жизни, когда вы строите дома из карт, чтобы оживить созидательные воспоминания. Создавайте пути через фантастические пространственные пазлы, чтобы найти путь через опасности и эмоции школьного периода и далее.",
+            "versionDate": "2022-07-16T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/22/3c/d2/223cd2d2-1307-8baf-d4a7-d7b52db74f9f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
         
        
     ]
