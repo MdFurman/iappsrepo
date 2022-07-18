@@ -43,6 +43,14 @@
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png",
         },
         {
+            "name": "Instagram | Rocket | Hack",
+            "version": "241.1 | 3.7.45",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/rocket/igrocket.ipa?raw=true",
+            "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
+            "versionDate": "2022-07-01T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/76/1f/c6/761fc680-afac-c5f4-6dd9-78cd6b4639ab/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        } ,
+        {
             "name": "Instagram | Plus | Hack | Ru",
             "version": "243.1 | 2.44",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/igplus/igplus.ipa?raw=true",
@@ -50,13 +58,13 @@
             "versionDate": "2022-07-16T13:31:00+0800",
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/igplus.png?raw=true",
         } ,
-		{
-            "name": "Instagram | Rocket | Hack",
-            "version": "241.1 | 3.7.45",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/rocket/igrocket.ipa?raw=true",
-            "localizedDescription": "Приложение Instagram с возможностью сохранять фото/видео/сторис и другими дополнительными функциями.",
-            "versionDate": "2022-07-01T13:31:00+0800",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/76/1f/c6/761fc680-afac-c5f4-6dd9-78cd6b4639ab/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        {
+            "name": "Instagram | Plus[Stable] | Hack | Ru",
+            "version": "228 | 2.44",
+            "downloadURL": "https://www.dropbox.com/s/5fjzh6hv5bsf6ua/IG%20228.0_PlusStable%5Btg%40iapps_ipa%5D.ipa?dl=1",
+            "localizedDescription": "Лучшая модификация Instagram, с огромными возможностями. Без взлома.\n\n⚠️ Для активации взлома в настройках твика войдите в аккаунт используя рандомную(выдуманую) почту и пароль.",
+            "versionDate": "2022-07-18T13:31:00+0800",
+            "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/igplus.png?raw=true",
         } ,
         {
             "name": "Instagram | LRD | Hack",
@@ -244,10 +252,10 @@
         },
         {
             "name": "KinoHome",
-            "version": "1.4",
-            "downloadURL": "https://www.dropbox.com/s/osv2dza38m5anho/kinohome.ipa?dl=1",
+            "version": "1.5",
+            "downloadURL": "https://www.dropbox.com/s/kc2yppdivntjcrb/KinoHome_1.5.0%5Btg%40iapps_ipa%5D.ipa?dl=1",
             "localizedDescription": "Приложение для просмотра фильмов, сериалов и ТВ.",
-            "versionDate": "2022-07-11T13:31:00+0800",
+            "versionDate": "2022-07-18T13:31:00+0800",
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/ico/kinohome.png?raw=true",
         } ,
         {
@@ -1556,10 +1564,10 @@
         },
         {
             "name": "Plants vs Zombies 2 | Hack",
-            "version": "9.7.2",
-            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/plants/pvz.ipa?raw=true",
+            "version": "9.8.1",
+            "downloadURL": "https://www.dropbox.com/s/5mypn5p70vb6b50/PvZ%202_9.8.1.ipa?dl=1",
             "localizedDescription": "Соберите армию растений и встретьтесь с зомбаками. \n• Бесконечное количество монет; \n• Бесконечное количество драгоценностей; ",
-            "versionDate": "2022-05-19T13:31:00+0800",
+            "versionDate": "2022-07-18T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/64/8e/8c648e45-f968-83f5-5ada-4be06d1a28a1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
