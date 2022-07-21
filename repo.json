@@ -84,10 +84,10 @@
         } ,
         {
             "name": "YouTube | Cercube | iSponsorBlock",
-            "version": "17.25.1 | 5.3.10",
+            "version": "17.28.2 | 5.3.10",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/cercube/cercube.ipa?raw=true",
             "localizedDescription": "Модифицированный клиент YouTube без рекламы с возможностью скачивать видео.\n Для удаления рекламы Cercube в настройках твика создайте в аккаунт и войдите в него!",
-            "versionDate": "2022-07-01T13:31:00+0800",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -379,11 +379,11 @@
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/59/2b/2d592b9c-d28f-ad47-caf4-b4e55dc762f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
-            "name": "Focos Pro",
-            "version": "2.5.6",
+            "name": "Focos | Pro",
+            "version": "2.5.8",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/focos/focos.ipa?raw=true",
             "localizedDescription": "Фоторедактор со взломом на подписку.",
-            "versionDate": "2022-04-29T13:31:00+0800",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/5b/0d/305b0d7a-3657-e47d-91f3-6ae6ca3ea405/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
         },
         {
@@ -403,11 +403,11 @@
             "iconURL": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
         },
         {
-            "name": "Lot | Hack",
-            "version": "0.13",
+            "name": "Lot | Premium",
+            "version": "0.13.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/lot.ipa?raw=true",
-            "localizedDescription": "Шрифты и стикеры для сторис.\n\n- Для активации взлома зажмите в любой части экрана двумя пальцами, активируйте тумблер «Revenue Cat» и нажмите «Apply»!",
-            "versionDate": "2022-06-24T13:31:00+0800",
+            "localizedDescription": "Шрифты и стикеры для сторис.",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/df/a5/0adfa589-41b0-c5b9-048d-25aee50de20a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
@@ -453,17 +453,17 @@
         {
             "name": "Photoroom | Hack",
             "version": "4.4.0",
-            "downloadURL": "https://www.dropbox.com/s/g5hrwzx4n200wsm/photoroom.ipa?dl=1",
-            "localizedDescription": "Искусственный интеллект читает ваши изображения и даёт вам суперспособности по их редактированию.\n\n- Для активации взлома зажмите в любой части экрана двумя пальцами, активируйте тумблер «Revenue Cat» и нажмите Apply!",
-            "versionDate": "2022-06-26T13:31:00+0800",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/photoroom.ipa?raw=true",
+            "localizedDescription": "Искусственный интеллект читает ваши изображения и даёт вам суперспособности по их редактированию.",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/93/22/4f9322bd-c055-569d-c032-d958a821d457/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/246x0w.png",
         },
         {
             "name": "Videoleap | Premium",
-            "version": "1.20.5",
-            "downloadURL": "https://www.dropbox.com/s/mea0ngc2sd36zr4/videoleap.ipa?dl=1",
+            "version": "1.21.3",
+            "downloadURL": "https://www.dropbox.com/s/mnbnr14n452wqxr/Videoleap_1.21.3%5Btg%40iapps_ipa%5D.ipa?dl=1",
             "localizedDescription": "Мощный редактор видео.",
-            "versionDate": "2022-06-26T13:31:00+0800",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/68/15/a1681519-b3a3-07f5-150a-0a2212788212/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/246x0w.png",
         },
         {
@@ -523,6 +523,14 @@
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0d/30/610d301a-6094-603d-f443-3dcba48fff18/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
+            "name": "Unfold | Plus",
+            "version": "8.11.1",
+            "downloadURL": "https://www.dropbox.com/s/uukc5aoi2n40qew/Unfold_8.11.1%5Btg%40iapps_ipa%5D.ipa?dl=1",
+            "localizedDescription": "Приложение для создания сторис с большим количеством шаблонов и др",
+            "versionDate": "2022-07-21T13:31:00+0800",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/00/3c/a7003c14-c9e9-5926-e17d-df4e03f40308/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/246x0w.png",
+        },
+        {
             "name": "ProCamera",
             "version": "15.2",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/procamera.ipa?raw=true",
@@ -531,7 +539,7 @@
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/52/03/14/52031488-0cb8-daa3-ee8e-0dcab9b57e45/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/230x0w.png",
         },
         {
-            "name": "Photomatch Plus",
+            "name": "Photomatch | Plus",
             "version": "8.4.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/photomatch.ipa?raw=true",
             "localizedDescription": "Решайте математические задачи легко. Чтобы подписка Plus работала измените язык на английский в приложении.",
@@ -561,6 +569,14 @@
             "localizedDescription": "С Opener вы сможете открывать ссылки в приложениях вместо браузера.\n\n❗️Для автоматического открытия ссылок установите команду «Open with Opener»\n- Opener > Настройки > Shortcuts\n\nОткрывать ссылки нужно через меню:\nПоделиться > Open with Opener",
             "versionDate": "2022-06-01T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/c2/da/f3c2da75-65eb-12d1-e6f2-987773833673/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "Brite | Hack",
+            "version": "1.0.27",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/brite.ipa?raw=true",
+            "localizedDescription": "Brite - планировщик все в одном. Это новый взгляд на управление вашими задачами и расписанием.\n- Для активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
+            "versionDate": "2022-07-21T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/96/d3/ca/96d3cacf-0b32-a442-4957-9fbe500efbca/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         {
             "name": "Мои Дела | Hack",
@@ -699,12 +715,28 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/3b/c6/bc3bc610-32ef-2705-494b-622f61db0e9b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
+            "name": "PicSee | Pro",
+            "version": "7.2.3",
+            "downloadURL": "https://www.dropbox.com/s/umlo8rikyeac44e/PicSee_7.2.3%5Btg%40iapps_ipa%5D.ipa?dl=1",
+            "localizedDescription": "Эффекты, текста, шрифты и наклейки для ваших фото",
+            "versionDate": "2022-07-21T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/0c/38/d20c382c-fbf6-f991-95bb-159553f0ddfe/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
             "name": "Procreate Pocket",
             "version": "4.0.6",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/procreatepocket/procreatepocket.ipa?raw=true",
             "localizedDescription": "Популярное графическое приложение для iPhone, которое одинаково знают и любят как профессионалы, так и начинающие художники",
             "versionDate": "2022-05-19T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a4/c2/f9a4c260-c73a-42a9-f1d1-cc08eca3f74e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Momento | Premium",
+            "version": "7.4.10",
+            "downloadURL": "https://www.dropbox.com/s/wdhravlov8l66u8/Momento_7.4.10%5Btg%40iapps_ipa%5D.ipa?dl=1",
+            "localizedDescription": "Эффекты, текста, шрифты и наклейки для ваших фото",
+            "versionDate": "2022-07-21T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/08/8e/a5088e25-c931-a38e-672a-65223977b81b/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220-0.png/246x0w.png",
         },
         {
             "name": "iScanner Pro",
@@ -788,10 +820,10 @@
         },
         {
             "name": "Infltr | Pro",
-            "version": "6.5.0",
+            "version": "6.8.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/infltr/infltr.ipa?raw=true",
             "localizedDescription": "Фоторедактор с огромным количеством фильтров и созданием собственных.",
-            "versionDate": "2022-05-12T13:31:00+0800",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/4a/0e/d04a0e3a-222b-00c5-ddb0-b94c8329cedf/AppIcon-0-2x_U007euniversal-0-0-4-0-0-85-220.png/246x0w.png",
         },
         {
@@ -817,6 +849,14 @@
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
             "versionDate": "2022-06-18T13:31:00+0800",
             "iconURL": "https://gbox.pub/Public/resources/icon256.png",
+        },
+        {
+            "name": "Workout | Premium",
+            "version": "5.43",
+            "downloadURL": "https://www.dropbox.com/s/wcjnxahr83wp981/Workout_5.4300%5Btg%40iapps_ipa%5D.ipa?dl=1",
+            "localizedDescription": "Приложение для тренировок.",
+            "versionDate": "2022-07-21T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/d2/27/d6d227bd-22f7-665f-d825-ff8a19f2eaf4/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/246x0w.png",
         },
         {
             "name": "MyFitnessPal | Premium",
@@ -1020,10 +1060,10 @@
         },
         {
             "name": "Mo | Hack",
-            "version": "1.1.13",
+            "version": "1.1.20",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/mo.ipa?raw=true",
             "localizedDescription": "Приложение №1 на русском для сна, медитации и отдыха.\nДля активации взлома начните покупку подписки, во время появление окна нажмите отмена, покупка будет взломана.",
-            "versionDate": "2022-01-27T13:31:00+0800",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/42/06/95/42069531-6890-8fca-60ab-05b3cf60720a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
         },
         {
