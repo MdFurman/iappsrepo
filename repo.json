@@ -100,10 +100,10 @@
         } ,
         {
             "name": "YouTube | uYou | iSponsorBlock",
-            "version": "17.24.4 | 2.1",
+            "version": "17.28.2 | 2.1",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/uyou/uyou.ipa?raw=true",
             "localizedDescription": "Лучший модифицированный клиент для YouTube с огромными возможностями.",
-            "versionDate": "2022-06-24T13:31:00+0800",
+            "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png",
         } ,
         {
@@ -235,11 +235,11 @@
             "iconURL": "https://inceptum-stor.icons8.com/3tDtW969i5Om/6a3d8faecc26b7feb243c608cdf1c158_icon.png",
         },
         {
-            "name": "NLP Music",
-            "version": "1.0.1-24",
+            "name": "Null Music",
+            "version": "2.0-51",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/nlpmusic.ipa?raw=true",
             "localizedDescription": "Приложение для прослушивания и загрузки музыки из ВК.\nДля скачивания в кэш откройте песню и нажмите кнопку загрузки(стрелочку)",
-            "versionDate": "2022-04-27T13:31:00+0800",
+            "versionDate": "2022-07-23T13:31:00+0800",
             "iconURL": "https://github.com/MdFurman/iappsrepo/blob/main/nlp.jpg?raw=true",
         },
         {
@@ -409,6 +409,14 @@
             "localizedDescription": "Шрифты и стикеры для сторис.",
             "versionDate": "2022-07-21T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/df/a5/0adfa589-41b0-c5b9-048d-25aee50de20a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        },
+        {
+            "name": "Sleep Cycle | Premium",
+            "version": "6.22.27",
+            "downloadURL": "https://github.com/MdFurman/iappsrepo/releases/download/bbksun/sleep.ipa?raw=true",
+            "localizedDescription": "Sleep Cycle — это интеллектуальный будильник, который отслеживает особенности сна и будит в самую быструю фазу, как если бы человек, отдохнув, легко проснулся сам.",
+            "versionDate": "2022-07-23T13:31:00+0800",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/be/7c/69be7c51-c247-817a-300f-eb8866b1dad7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
             "name": "MyTuner Radio Pro",
