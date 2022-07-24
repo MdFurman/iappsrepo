@@ -612,10 +612,10 @@
         },
         {
             "name": "Calm Premium",
-            "version": "5.39",
+            "version": "6.4",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/calm.ipa?raw=true",
             "localizedDescription": "Приложение с большим количеством приятной музыки для сна, релакса, снятия стресса и т.д.",
-            "versionDate": "2022-04-29T13:31:00+0800",
+            "versionDate": "2022-07-24T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9d/d1/559dd1a5-ec33-a5da-2c14-42ee1f09a29e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.png",
         },
         {
@@ -2047,7 +2047,7 @@
             "version": "1.92.1",
             "downloadURL": "https://www.dropbox.com/s/2fb17izeybg8n46/SoulKnight_4.1.6.ipa?dl=1",
             "localizedDescription": "Присоединяйся ко всемирно известной Королевской Битве Free Fire! Заберись на вершину рейтинга. Каждая 10-минутная сессия приведёт тебя на одинокий остров, 49 игроков против тебя, и только один шанс на победу.\n\n- Помощь в прицеливании\n- Без тумана",
-            "versionDate": "2022-07-21T13:31:00+0800",
+            "versionDate": "2022-07-24T13:31:00+0800",
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/05/70/0f05703c-81b0-d35d-2269-1adb0a1b1281/AppIcon-1657905052-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
         },
         {
@@ -2233,6 +2233,22 @@
             "localizedDescription": "Explottens - самая доступная и дружественная к кошкам стрелялка, которая меняет представление о таких играх и понравится неискушенным игрокам. Это настоящий стрелковый ад, аркадная стрелялка с боковой прокруткой, отзывчивым управлением, большими взрывами и эпическими плохими боссами.",
             "versionDate": "2022-07-23T13:31:00+0800",
             "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/99/45/7a/99457a02-ff5a-cf45-4a03-858fd2d3ccb1/Event-ios-1x_U007emarketing-0-8-0-85-220.jpeg/246x0w.jpg",
+        },
+        {
+            "name": "Lifeslide | Arcade",
+            "version": "1.3.1",
+            "downloadURL": "https://www.dropbox.com/s/w4jovpqoyafkc8y/Lifeslide_1.3.1.ipa?dl=1",
+            "localizedDescription": "Lifeslide — игра о полётах, где двигателем служит гравитация. Чем вы смелее, тем лучше будете летать. Ныряйте к земле, чтобы набрать скорость, и принимайте секундные решения, летя по изменчивому миру.",
+            "versionDate": "2022-07-24T13:31:00+0800",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/19/40/55/19405582-e492-2155-a753-96d3b838a24d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+        },
+        {
+            "name": "Typoman Remastered | Hack",
+            "version": "1.2.4",
+            "downloadURL": "https://www.dropbox.com/s/qeg0ffoxlgkr3f4/Typoman_1.2.4.ipa?dl=1",
+            "localizedDescription": "Typoman отправляет вас в путешествие необычного ГЕРОЯ, чтобы найти последнее письмо и вернуть надежду в безжалостный мир. Обладатель многочисленных наград и широко признанная одна из самых уникальных инди-игр!\n\n- Во время запроса покупки полной версии игры начните покупку и отмените её, игра будет взломана на полную версию.",
+            "versionDate": "2022-07-24T13:31:00+0800",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/8a/44/6f8a4415-afdd-bd5c-6d72-5e1fe19b2e0a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
         },
         
        
