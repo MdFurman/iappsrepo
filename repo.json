@@ -932,10 +932,10 @@
         },
         {
             "name": "Adobe CC Express Premium",
-            "version": "10.0",
+            "version": "11.0",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/adobecc.ipa?raw=true",
             "localizedDescription": "Приложение от Adobe для создания уникального медиа контента.",
-            "versionDate": "2022-01-17T13:31:00+0800",
+            "versionDate": "2022-07-25T13:31:00+0800",
             "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/21/c6/2a21c688-6dc9-d31c-811f-97259c38af6e/AppIconSpark-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.png",
         },
         {
