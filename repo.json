@@ -19,10 +19,10 @@
         },
         {
             "name": "Gbox",
-            "version": "3.6.7",
+            "version": "3.6.5",
             "downloadURL": "https://github.com/MdFurman/iappsrepo/blob/main/ipa/gbox.ipa?raw=true",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2022-06-18T13:31:00+0800",
+            "versionDate": "2022-07-30T13:31:00+0800",
             "iconURL": "https://gbox.pub/Public/resources/icon256.png",
         },
         {
